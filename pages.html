@@ -1,0 +1,26 @@
+---
+layout: page
+title: Pages 
+header: Pages
+group: navigation
+---
+{% include JB/setup %}
+
+<div class="row-fluid">
+  <div class="span3">
+    {% include themes/twitter/about %}
+  </div>
+  <div class="span9">
+    <div class="hero-unit">
+
+      <h2>All Pages</h2>
+      <ul>
+      {% assign pages_list = site.pages %}
+      {% include JB/pages_list %}
+      </ul>
+
+    </div>    
+  </div>
+</div>
+
+

@@ -1,0 +1,6 @@
+<div class="well sidebar-nav">
+  <ul class="nav nav-list">
+    <li class="nav-header">About</li>
+    <li> <a href="http://www.interfacevision.com">Interface Vision</a><p class="nav-about">a group working on software development platforms that can be used without coding.</p></li>
+  </ul>
+</div>

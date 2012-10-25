@@ -1,0 +1,64 @@
+html, body {
+  background-color: #BEDDF3;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+.img-rounded {
+	width: 80px;
+	height: 80px;
+}
+
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+.nav-about {
+	font-size: 1em;
+}
+
+.container-main {
+	background-color: #BEDDF3;
+}
+
+h1,h2,h3,h4,h5,h6,p,li {
+	color: #0B2A41;
+}
+
+.hero-unit blockquote p {
+	text-align: center;
+	padding-top: .2em;
+	padding-bottom: .2em;
+	font-size: 2.0em;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.hero-unit h1 {
+	padding-bottom: .4em;
+	font-size: 2.5em;
+}
+
+.hero-unit h1,h2,h3,h4,h5,h6,p,li {
+	color: #0B2A41;
+}
+
+p, li {
+	font-size: 1.4em;
+	line-height: 1.4em;
+}
+
+.container > footer {
+  margin-top: 20px;
+}
+
+.container > footer p {
+  text-align: center; /* center align it with the container */
+}
+
+/* Large desktop */
+/* Fix padding issue when images added to navbar */
+@media (min-width: 980px) {
+	body {
+		padding-top: 140px;
+	}
+}

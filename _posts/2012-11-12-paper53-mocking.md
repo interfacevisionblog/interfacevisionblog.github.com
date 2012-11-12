@@ -19,7 +19,7 @@ Special thanks to [Brian Foote](mailto:sharpguru@gmail.com) for helping out with
 
 <div class="pagination-centered img-polaroid">
   <p>
-    <img src="/assets/img/vision_ux_connectors.png" alt="">
+    <img src="/assets/img/vision_ux_connectors_2.png" alt="">
   </p>
 </div>
 
@@ -29,7 +29,7 @@ Connecting between parts should show the direction of flow of a program and feel
 
 <div class="pagination-centered img-polaroid">
   <p>
-    <img src="/assets/img/vision_ux_parts.png" alt="">
+    <img src="/assets/img/vision_ux_parts_2.png" alt="">
   </p>
 </div>
 
@@ -41,7 +41,7 @@ Cards are a special type of part.
 
 <div class="pagination-centered img-polaroid">
   <p>
-    <img src="/assets/img/vision_ux_card_scope.jpg" alt="">
+    <img src="/assets/img/vision_ux_card_scope_2.jpg" alt="">
   </p>
 </div>
 
@@ -52,7 +52,7 @@ Cards are able to hold other parts. The above mockup is a scope card. A user can
 We are trying to find an easy way for people to configure parts. 
 <div class="pagination-centered img-polaroid">
   <p>
-    <img src="/assets/img/vision_ux_card_config.PNG" alt="">
+    <img src="/assets/img/vision_ux_card_config_2.png" alt="">
   </p>
 </div>
 
@@ -64,7 +64,7 @@ Even though Paper 53 is a great way to mock we do need to start finalizing the l
 
 <div class="pagination-centered img-polaroid">
   <p>
-    <img src="/assets/img/vision_ux_card_dowhile.png" alt="">
+    <img src="/assets/img/vision_ux_card_dowhile_2.png" alt="">
   </p>
 </div>
 

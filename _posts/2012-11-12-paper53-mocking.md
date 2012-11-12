@@ -3,7 +3,7 @@ layout: post
 title: "Interface Vision - Mocking With Paper 53"
 description: ""
 category: Interface Vision
-tags: [Interface Vision, UI, UX, Design]
+tags: [Interface Vision, UI, UX, Design, Paper 53]
 author: Eric Hosick
 author_twitter: erichosick
 ---

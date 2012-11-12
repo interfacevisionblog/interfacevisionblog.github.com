@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interface Vision
+title: Interface Vision - Blog
 tagline: Blog and Such
 group: navigation
 ---

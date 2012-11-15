@@ -45,7 +45,7 @@ Let's look at what a foreach loop looks like within our framework:
     }
     ...
 
-In this case, we have some information of type object. We do not know if that information is an actual aggregate or a single instance (though we do allow you to query if an object is an actual aggregate by calling isAggregate).
+In this case, we have some information of type object. We do not know if that information is an actual aggregate or a single instance (though we do allow you to query if an object is an actual aggregate by calling isAggregate). However, this doesn't matter and we are able to traverse the returned object instance.
 
 Traditionally, a developer would have to write something like this:
 

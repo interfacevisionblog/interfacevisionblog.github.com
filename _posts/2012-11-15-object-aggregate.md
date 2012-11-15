@@ -43,7 +43,6 @@ Let's look at what a foreach loop looks like within our framework:
     foreach ( object o in information) {
       o.action = Empty.instance;
     }
-    bool isRealAggregate = information.isAggregate;
     ...
 
 In this case, we have some information of type object. We do not know if that information is an actual aggregate or a single instance (though we do allow you to query if an object is an actual aggregate by calling isAggregate).

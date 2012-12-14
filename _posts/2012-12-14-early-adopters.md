@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Now Know The Importance of Early Adopters"
+title: "I Now Understand The Importance of Early Adopters"
 description: "Early Adopters play a huge role in getting a startup off the ground."
 category: Startups
 tags: [Startups, Early Adopters]

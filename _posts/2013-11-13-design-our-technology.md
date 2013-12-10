@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Interface Vision - The Technology
-tagline: Programming Without Coding
+tagline: An in-depth look at the technology behind Interface Vision.
+category: Design
+tags: [Interface Vision, Decode, Architecture, Framework]
+author: Eric Hosick
+author_twitter: erichosick
 ---
 {% include JB/setup %}
 

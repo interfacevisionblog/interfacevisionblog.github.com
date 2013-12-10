@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Why We Don't Need Overloading"
-description: ""
-category: design-sip
+description: "Overloading is not longer required because we use parts that can operate on all primitives."
+category: Design
 tags: [Overloading, Method Overloading, Primitive, subroutines]
 author: Eric Hosick
 author_twitter: erichosick
@@ -14,7 +14,7 @@ author_twitter: erichosick
 
 We don't use overloading because our framework has no subroutines to overload. This is because the rules of Simple Interface Programming (SIP) don't allow subroutines with explicit parameters.
 
-Instead of overloading, we use Parts that are able to operate on all primitives. Currently, we have chosen Part (aka object), string, boolean, integer, long, float, double, byte[], int[], long[] and float[] as the primitives we support.
+Instead of overloading, we use Parts that are able to operate on all primitives. Currently, we have chosen Part (aka object), string, boolean, integer, long, float, double, byte array, int array, long array and float array as the primitives we support.
 
 ## Example of Traditional Overloading
 
@@ -207,5 +207,5 @@ We could have also created parts to do conversion such as a FloatToInt part. How
 
 In both examples, conversion within operations and conversion parts, we end up with part explosion: AddLong, AddFloat, AddString, AddFloatLong and so on. Really, if you think about it, overloading is not really the best way to define operations between primitive data types because of this subroutine explosion issue: a real problem in the programming industry.
 
-People do solve this problem to some extent by using things like Generics ([C# Generics](http://msdn.microsoft.com/en-us/library/ms379564(v=vs.80).aspx) for example).
+People do solve this problem to some extent by using things like Generics.
 

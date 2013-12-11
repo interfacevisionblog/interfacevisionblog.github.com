@@ -66,7 +66,7 @@ This is where SIP differs. Within SIP, a property can contain a reference to ext
 This "reference" is actually a special type of part, called a locator, which is able to locate information contained within data structures. For example, a HashTable would have a HashTableLocator and an Array would have an ArrayLocator.
 
 #### How Do We Initialize Parts?
-Since Interface Vision is a [visual programming language](http://en.wikipedia.org/wiki/Visual_programming_language), users drag and drop parts to create them. Usually, a user will attach a new part to the property of an existing part.
+Since Interface Vision is a [visual programming language](http://en.wikipedia.org/wiki/Visual_programming_language), users drag and drop parts to create instanced of them. Usually, a user will attach a new part to the property of an existing part.
 
 We store and load all of these attached parts in a configuration file using serialization. An example of just such a configuration is shown in [Source-1.5](#id-s1-5-top) and [Source-1.7](#id-s1-7-top).
 
@@ -88,14 +88,14 @@ However, in SIP, you aren't allowed to use parameters. Instead we use properties
 We create an Add part with properties as shown [(2)](#id-2):
 
 <div id='id-s1-1-top'>&nbsp;</div>
-    public interface IItem {
+    public interface IPart {
       long withLong { get; set; }
       int withInt { get; set; }
     }
 
-    public class Add : IItem {
-      public IItem opLeft { get; set; }
-      public IItem opRight { get; set; }
+    public class Add : IPart {
+      public IPart opLeft { get; set; }
+      public IPart opRight { get; set; }
 
       public long withLong {
         get { return opLeft.withLong + opRight.withLong; }
@@ -106,14 +106,14 @@ We create an Add part with properties as shown [(2)](#id-2):
     }
 ###### Source-1.1: The Add Part can add two numbers. {#id-s1-1}
 
-The first thing to note is that the properties opLeft (the left operand of add) and opRight (the right operand of add) are not primitive data types. They are of type IItem.
+The first thing to note is that the properties opLeft (the left operand of add) and opRight (the right operand of add) are not primitive data types. They are of type IPart.
 
     ...
-  	public IItem opLeft { get; set; }
-  	public IItem opRight { get; set; }
+  	public IPart opLeft { get; set; }
+  	public IPart opRight { get; set; }
     ...
 
-If we want to add two long or integer primitive data types, we will need to call the withLong or withInt property of IItem. This is seen within the implementation of Add.
+If we want to add two long or integer primitive data types, we will need to call the withLong or withInt property of IPart. This is seen within the implementation of Add.
 
     ...
   	public long withLong {
@@ -127,7 +127,7 @@ If we want to add two long or integer primitive data types, we will need to call
 This means we will need a Long part and an Int part to hold the value of a primitive data type.
 
 <div id='id-s1-2-top'>&nbsp;</div>
-    public class Long : IItem {
+    public class Long : IPart {
       public long value { get; set; }
       public long withLong {
         get { return value; }
@@ -137,7 +137,7 @@ This means we will need a Long part and an Int part to hold the value of a primi
       }
     }
 
-    public class Int : IItem {
+    public class Int : IPart {
       public int value { get; set; }
       public long withLong {
         get { return value; }
@@ -154,7 +154,7 @@ So, let’s see how we compose addition using C# [object initializers](http://en
 
 <div id='id-s1-3-top'>&nbsp;</div>
     static void main() { 
-      IItem program = new Add {
+      IPart program = new Add {
         opLeft = new Long { value = 5 },
         opRight = new Long { value = 7 }
       };
@@ -189,7 +189,7 @@ Figure-1.2 is a form that has two fields. When we press “Add” on the form, t
 We are only allowed to compose programs and we can’t provide information via a public method with parameters. So, we need to create a part that can locate information on a form. Let's call it FormValue ([4](#id-4)).
 
 <div id='id-s1-4-top'>&nbsp;</div>
-    public class FormValue : IItem {
+    public class FormValue : IPart {
       public string nameForm { get; set; }
       public string nameField { get; set; }
       
@@ -213,7 +213,7 @@ Here is an example usage ([6](#id-6)):
 
 <div id='id-s1-5-top'>&nbsp;</div>
     static void main() { 
-      IItem program = new Add {
+      IPart program = new Add {
         opLeft = new FormValue {
           nameForm = “AddForm”,
           nameField = “opLeft”
@@ -342,9 +342,9 @@ We solve this problem in a few ways:
 **Mutex A Part** - A property that needs to be thread safe can be wrapped or decorated with a Mutex type. An example of just such a mutex type is provided below.
 
 <div id='id-s1-7-top'>&nbsp;</div>
-    public class Mutex : IItem {
+    public class Mutex : IPart {
       public string nameOfMutex { get; set; }
-      public IItem wrappedItem { get; set; }
+      public IPart wrappedItem { get; set; }
 
       public long withLong {
         get {

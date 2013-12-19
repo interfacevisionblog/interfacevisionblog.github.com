@@ -107,7 +107,7 @@ Syntactically, the language is simple.
 
 Parts are upper case and properties are lower case.
 
-Each Part is a class [1](#id-1) contained within the a given framework.
+Each Part is a class [1](#id-1) contained within a given framework.
 
 Methods/Functions are not part of the language (which greatly simplifies the syntax).
 

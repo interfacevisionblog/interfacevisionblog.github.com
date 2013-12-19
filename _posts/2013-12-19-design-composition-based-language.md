@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SipCoffee - A Composite Based Programming Language"
+title: "SipCoffee - A Programming Language Based on Composition"
 description: "A very simple programming language which uses composition exclusively."
 category: Design
 tags: [Language, Persistence, Scripting]
@@ -10,9 +10,11 @@ author_twitter: erichosick
 
 ## Introduction
 
-Interface Vision is a Gui based visual object language and fully composable framework. Programming is done by hooking up parts: either visually or coding in C#.
+Interface Vision is a Gui based visual object language and fully composable framework created using Simple Interface Programming (SIP). Programming is done by hooking up parts: either visually or coding in C#.
 
 We've designed a language, SipCoffee, to simplify the syntax of describing the hooking up of Parts.
+
+It uses composition exclusively. There is no specific syntax to describe inheritance, for loops, if/else statements, variables, scope, methods, functions and so on.
 
 ## Examples
 
@@ -105,7 +107,7 @@ Syntactically, the language is simple.
 
 Parts are upper case and properties are lower case.
 
-Each Part is a class [1](#id-1) contained within the Interface Vision framework.
+Each Part is a class [1](#id-1) contained within the a given framework.
 
 Methods/Functions are not part of the language (which greatly simplifies the syntax).
 
@@ -127,6 +129,7 @@ A pseudo parsing expression grammar is as follows:
     a) PROPERTY <- property primitive+
     b) PROPERTY <- property PART+
     c) PART <- Part ( PROPERTY* )
+    AND/OR c) PART <- Part { PROPERTY* } // Cause maybe people prefer curley braces?
 
 ###### Grammar-1.1: Parsing expression grammar for SipCoffee. {#id-g1-1}
 
@@ -148,6 +151,12 @@ A collection is defined by simply listing the items in the array separated by wh
 * array of integers - 1 2 5 6 12 656
 * array of floats - 23.0f 345.4f 63.346f
 * array of Parts - User ( name "Jane" ) User ( name "Toan" ) User ( name "Frank" )
+
+## Availability
+
+SipCoffee works with the Interface Vision framework. We've created an initial persister that is able to save a program configured in Interface Vision as SipCoffee. The persister will itself be written in SipCoffee. When we get to that point, we will blog about it.
+
+In the mean time, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).
 
 ## Conclusion
 

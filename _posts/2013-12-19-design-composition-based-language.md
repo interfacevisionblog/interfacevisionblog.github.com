@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SipCoffee - A Programming Language Based on Composition"
+title: "A Programming Language Based on Composition"
 description: "A very simple programming language which uses composition exclusively."
 category: Design
 tags: [Language, Persistence, Scripting]

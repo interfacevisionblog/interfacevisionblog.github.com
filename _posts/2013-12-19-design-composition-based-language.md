@@ -119,7 +119,7 @@ Application has two properties: using and action. The using property contains an
 
 Library has a name property which is the name of the library to load. In this case, the name property is set to a string primitive type and contains the value "Vision.Console".
 
-WriteLine has a text property, which is the text to write, and have the value "Hello".
+WriteLine has a text property, which is the text to write, and has the value "Hello".
 
 ## Parsing Expression Grammar
 
@@ -160,7 +160,7 @@ In the mean time, please follow us [@interfaceVision](http://www.twitter.com/int
 
 ## Conclusion
 
-That's it. A very simple language based on composition of behavior.
+That's it. A very simple language based on composition.
 
 ## Footnotes
 

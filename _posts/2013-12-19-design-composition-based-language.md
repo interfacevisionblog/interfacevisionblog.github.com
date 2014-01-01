@@ -3,7 +3,7 @@ layout: post
 title: "A Programming Language Based on Composition"
 description: "A very simple programming language which uses composition exclusively."
 category: Design
-tags: [Language, Persistence, Scripting]
+tags: [Language, Persistence, Scripting, Composition]
 author: Eric Hosick
 author_twitter: erichosick
 ---

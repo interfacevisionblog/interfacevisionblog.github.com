@@ -162,6 +162,10 @@ In the mean time, please follow us [@interfaceVision](http://www.twitter.com/int
 
 That's it. A very simple language based on composition.
 
+## Next Step
+
+The [next step]({% post_url 2013-12-31-example-window-basic %}) was to get a program to display a native window using SipCoffee.
+
 ## Footnotes
 
 {#id-1} 1. Actually, a Part can be a class or a composition of other parts. But this isn't relevant for the SipCoffee language.

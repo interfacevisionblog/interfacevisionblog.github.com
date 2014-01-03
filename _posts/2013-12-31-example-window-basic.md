@@ -23,7 +23,7 @@ author_twitter: erichosick
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_window_basic_2.png"><img></p>
 ###### Figure-1.2: An iOS native window with a "non-native" window. {#id-f1-2}
 
-Let's look at the SipCoffee 'code' to create this program which runs in both iOS and OSX natively.
+Let's look at the [SipCoffee]({% post_url 2013-12-19-design-composition-based-language %}) 'code' to create this program which runs in both iOS and OSX natively.
 
 ## The CSS
 
@@ -71,7 +71,7 @@ In Interface Vision, the layout of native controls is done using CSS syntax.
 
 ## The Configuration
 
-Programs in Interface Vision are composed. Instead of coding, developers hook up parts either visually (we are developing the Gui based development environment now: starting with this post) or via C# code (how we do it now) or using the SipCoffee language (the source code in this post).
+Programs in Interface Vision are composed. Instead of coding, developers hook up parts either visually (we are developing the Gui based development environment now: starting with this post) or via C# code (how we do it now) or using the [SipCoffee]({% post_url 2013-12-19-design-composition-based-language %}) language (the source code in this post).
 
 ### Scope
 
@@ -173,7 +173,7 @@ Yep! In general, you can add properties to almost any part within Interface Visi
 
 ## The Entire Program
 
-Our entire program fits in just 39 lines of SipCoffee code, 24 if you don't include lines of ), and 33 lines of CSS.
+Our entire program fits in just 39 lines of [SipCoffee]({% post_url 2013-12-19-design-composition-based-language %}) code, 24 if you don't include lines of ), and 33 lines of CSS.
 
 That defines everything required to have a native cross platform Gui based application that runs on both OSX and iOS (oh, and that supports rotation of an iOS device too)!
 
@@ -221,9 +221,14 @@ That defines everything required to have a native cross platform Gui based appli
 
 ###### Source-1.5: The entire program to show a Native Window in iOS and OSX. {#id-s1-5}
 
-
 ## Conclusion
 
-Interface Vision's SipCoffee language is able to configure complex cross platform applications using 100% composition. Our next example will extend our existing program by allowing us to move the "non-native" window within our "canvas" (the Scrollable view).
+Interface Vision's [SipCoffee]({% post_url 2013-12-19-design-composition-based-language %}) language is able to configure complex cross platform applications using 100% composition. Our next example will extend our existing program by allowing us to move the "non-native" window within our "canvas" (the Scrollable view).
 
 If you find our work interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).
+
+## Next Step
+
+The [next step]({% post_url 2014-01-04-example-events-basic %}) is to create a configurable event system. We were planning on creating the configuration to allow us to move around our "non-native" window but we got ahead of ourselves.
+
+The [prior step] ({% post_url 2013-12-19-design-composition-based-language %}) was to create a language based on composition.

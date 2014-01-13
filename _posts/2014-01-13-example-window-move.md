@@ -398,7 +398,7 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step will be to allow us to re-use parts of a configurations.
+The next step will be to allow us to re-use parts of a configuration.
 
 The [prior step]({% post_url 2014-01-04-example-events-basic %}) was to create a configurable event system.
 

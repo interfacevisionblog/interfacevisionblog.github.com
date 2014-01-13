@@ -360,7 +360,7 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step will be to create a configuration to allow us to move around our "non-native" window.
+The [next step]({% post_url 2014-01-13-example-window-move %}) will be to create a configuration to allow us to move around our "non-native" window.
 The [prior step] ({% post_url 2013-12-31-example-window-basic %}) was to get a program to display a native window using SipCoffee.
 
 ## Footnotes

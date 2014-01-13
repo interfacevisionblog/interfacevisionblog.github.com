@@ -91,6 +91,7 @@ The parameter name is also only available within the function foo. The stuff bet
 
 ###### Source-1.1: Example of defining scope using a function. {#id-s1-1}
 
+{#id-scope}
 #### How We do Scope
 
 Interface Vision has no methods, functions or modules. Instead, a Part (called Scope) is used to define the scope of behavior as shown in [Source-1.2](#id-s1-2-top). The Scope class contains a properties property which contains a HashTable. The HashTable can contain one or more Parts with a unique key. For Scope, we use this Unique Key as the name of the property: the name of the variable.
@@ -217,7 +218,6 @@ That defines everything required to have a native cross platform Gui based appli
         )
       )
     )
-
 
 ###### Source-1.5: The entire program to show a Native Window in iOS and OSX. {#id-s1-5}
 

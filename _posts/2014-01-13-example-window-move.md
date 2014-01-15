@@ -203,7 +203,7 @@ Please note that this is a complete application, excluding the CSS, that is able
 
 There is some redundant configuration code that should be reused: specifically the Processing and End panning events. It is easy to re-use configurations and we'll write a post on this.
 
-
+{#declaring-variables}
 ### Declaring and Using Variables
 
 #### Traditional Approach
@@ -398,7 +398,7 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step will be to allow us to re-use parts of a configuration.
+The [next step]({% post_url 2014-01-14-example-shared-configuration %}) allows us to 're-use' parts of a configuration.
 
 The [prior step]({% post_url 2014-01-04-example-events-basic %}) was to create a configurable event system.
 

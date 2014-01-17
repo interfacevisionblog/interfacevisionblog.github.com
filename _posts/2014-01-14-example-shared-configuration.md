@@ -41,7 +41,8 @@ In this case, we have declared a scope variable named eventCurrent.
 
 What we didn't mention is that a variable, and really any property for that matter, can contain more than just information. In fact, a variable (or property) can also contain behavior.
 
-## Configuring Properties to Contain Behavior
+{#configuring-properties}
+## Configuring Properties So They Can Contain Behavior
 
 Let's take the behavior we want to make re-usable and place that behavior in Scope variables:
 
@@ -135,14 +136,11 @@ That's it. All we have to do, for the action of the EventMonitor Part we are def
 ## Conclusion
 
 Configuring behavior that is re-usable is really easy in Interface Vision. 
-
 If you find our work interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).
 
 ## Next Step
 
-The next step in our goal of creating Interface Vision's Gui based visual development environment is to allow us to zoom in and out of a view using the pinch gesture.
+The [next step]({% post_url 2014-01-16-example-resize-window %}) is to do further refactoring and allow a window to be resized.
 
 The [prior step]({% post_url 2014-01-13-example-window-move %}) was to create a configuration to allow us to drag controls around on the screen..
-
-
 

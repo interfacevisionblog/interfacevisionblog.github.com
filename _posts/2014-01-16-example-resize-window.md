@@ -46,6 +46,8 @@ the top of the window.
 
 Resizing a window will also require knowing the distance a Mouse/Finger moved. So, let's turn the delta behavior into something that is re-usable.
 
+
+{#position-delta-config}
 First, let's add the delta behavior to the program's scope calling them 'posDeltaX' and 'posDeltaY' so they can be re-used in other parts of the configuration:
 
     Scope (
@@ -148,6 +150,8 @@ The new configuration gets the name of the property using PropScopeGet:
       part PropScopeGet ( nameStr "uxViewFocus" )
     )
 
+{#shared-resize-move}
+
 All we have to do then is run our configuration within a Scope that has an extended-property named "scopeHeight". Our original configuration for moving windows was [here]({% post_url 2014-01-14-example-shared-configuration %}#configuring-properties). Let's see what our changes have done:
 
     insert PartNamedString ( keyString "behaviorPanProcEnd"
@@ -166,7 +170,7 @@ All we have to do then is run our configuration within a Scope that has an exten
               part PropScopeGet ( nameStr "viewResMov" )
             )
           )
-       )
+        )
         insert When (
           condition IsNotNil ( part PropDynamicGet ( nameStr "draggable" required false part PropScopeGet ( nameStr "controlFocus" )) )
           action ArrayList ( callBehavior true
@@ -183,7 +187,6 @@ All we have to do then is run our configuration within a Scope that has an exten
         
 We can now re-use the "viewResMov" behavior for both moving and resizing windows.
 
-
 ## Conclusion
 
 We've been able to further refactor or configuration to improve on re-use by taking advantage of the nesting feature of Scope. We'll probably write a post on how nesting Scope is so much more awesome than relying on the function calling chain: passing information through parameters all the way down.
@@ -192,6 +195,6 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step in our goal of creating Interface Vision's Gui based visual development environment is to allow us to zoom in and out of a view using the pinch gesture.
+The [next step]({% post_url 2014-01-23-example-zoom-in-out %}) in our goal of creating Interface Vision's Gui based visual development environment is to allow us to zoom in and out of a view using the pinch gesture.
 
 The [prior step]({% post_url 2014-01-14-example-shared-configuration %}) allows us to 're-use' parts of a configuration.

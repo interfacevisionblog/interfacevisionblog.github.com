@@ -30,6 +30,7 @@ We will use the Pan Gesture with a single finger touch and apply the following l
 * We then update the prior position to the current position (for the next pan gesture).
 * During the ending of the Pan gesture, we also update the view's frame position for that last little movement.
 
+{#complete-application}
 ### The Complete Configuration
 
 [Configuration-1.1](#id-s1-1-top) contains the complete configuration in [SipCoffee] ({% post_url 2013-12-19-design-composition-based-language %}) for an application that runs on iOS and OSX devices that allows controls to be dragged around in a scrollable canvas. The complete configuration is broken down and explained in detail below.

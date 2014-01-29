@@ -398,7 +398,7 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step in our goal of creating Interface Vision's Gui based visual development environment is to dynamically add controls by using factories (instead of 'hard coding' our configuration).
+The [next step]({% post_url 2014-01-28-example-templates-and-factories %}) in our goal of creating Interface Vision's Gui based visual development environment is to dynamically add controls by using factories (instead of 'hard coding' our configuration).
 
 The [prior step]({% post_url 2014-01-16-example-resize-window %}) was to do further refactoring and allow resizing of windows.
 

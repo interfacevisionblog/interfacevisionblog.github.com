@@ -16,7 +16,7 @@ To add to our configuration dynamically, we're going to use factories which 'bui
 
 ### The Results
 
-<iframe width="746" height="420" src="http://www.youtube.com/embed/eiB8Vpltouc?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="746" height="420" src="http://www.youtube.com/embed/3bs3ZU-TgsY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 
 ## Templates
 

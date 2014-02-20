@@ -125,6 +125,14 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_lava_01.png"><img></p>
 
+### Learnable Programming
+
+More of a post on different ways to learn programming.
+
+[Image Source](http://worrydream.com/#!/LearnableProgramming) and [Web Site](http://worrydream.com/#!/LearnableProgramming)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_learnable_01.png"><img></p>
+
 ### Light Table
 
 Chris Granger's development environment.

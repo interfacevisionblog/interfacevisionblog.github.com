@@ -80,6 +80,11 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_webdesigner_01.png"><img></p>
 
+### Hopscotch
+[Image Source](https://www.gethopscotch.com/), [Wikipedia](http://en.wikipedia.org/wiki/Hopscotch_%28programming_language%29) and [Web Site](https://www.gethopscotch.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hopscotch_01.png"><img></p>
+
 ### IFTTT
 [Image Source](https://ifttt.com/recipes), [Wikipedia](http://en.wikipedia.org/wiki/Ifttt) and [Web Site](https://ifttt.com/wtf)
 

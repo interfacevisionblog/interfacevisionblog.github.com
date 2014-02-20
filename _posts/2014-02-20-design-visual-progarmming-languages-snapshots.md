@@ -157,6 +157,14 @@ Really cool and hard to describe. You need to visit their demo web page and watc
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_limnorstudio_01.png"><img></p>
 
+### Minecraft
+
+Considering someone has created a [fully programmable computer](http://www.youtube.com/watch?v=frcr9XYeTW4) using Minecraft.
+
+[Image Source](http://www.youtube.com/watch?v=frcr9XYeTW4), [Wikipedia](http://en.wikipedia.org/wiki/Minecraft) and [Web Site](https://minecraft.net/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_minecraft_01.png"><img></p>
+
 ### Minibloq
 
 This has a really cool looking interface.

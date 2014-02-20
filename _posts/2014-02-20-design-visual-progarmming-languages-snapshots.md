@@ -181,6 +181,13 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_NeatTools_01.png"><img></p>
 
+### NodeBox
+
+[Image Source](http://nodebox.net/node/) and [Web Site](http://nodebox.net/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nodebox_01.png"><img></p>
+
+
 ### Nuke
 [Image Source](http://www.thefoundry.co.uk/products/nuke-product-family/nuke/), [Wikipedia](http://en.wikipedia.org/wiki/Nuke_%28software%29) and [Web Site](http://www.thefoundry.co.uk/products/nuke-product-family/nuke/)
 

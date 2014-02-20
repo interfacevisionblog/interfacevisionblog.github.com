@@ -41,6 +41,11 @@ We aren't associated with any of the groups below. We just find their solutions 
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_automator_01.jpg"><img></p>
 
+### Bounce
+[Image Source](http://www.art.net/~hopkins/Don/lang/bounce/SpaceSeedCircuits.gif) and [Web Site](http://www.art.net/~hopkins/Don/lang/bounce/bounce.html)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_bounce_01.gif"><img></p>
+
 ### Copper Thoughts
 [Image Source](http://www.copperthoughts.com/assets/request-fsm-instance.png) and [Web Site](http://www.copperthoughts.com/)
 

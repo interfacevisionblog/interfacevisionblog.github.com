@@ -185,6 +185,11 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nxt-g_01.png"><img></p>
 
+### Open Modelica
+[Image Source](http://www.marekgayer.com/en/projects/incfd/) and [Web Site](https://www.openmodelica.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_openmodelica_01.jpg"><img></p>
+
 ### Open Music
 [Image Source](http://en.wikipedia.org/wiki/File:Om_patch.gif), [Wikipedia](http://en.wikipedia.org/wiki/OpenMusic) and [Web Site](http://repmus.ircam.fr/openmusic/home)
 

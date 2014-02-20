@@ -297,8 +297,6 @@ The complete configuration for the tap event is provided:
       )
     )
 
-
-
 ## Conclusion
 
 Configurations within our framework can be used as Templates allowing us to duplicate any configuration we come up with. In our example, we used a Factory to create new windows that were then added to the 'canvas'.
@@ -307,7 +305,7 @@ If you find our work interesting, please follow us [@interfaceVision](http://www
 
 ## Next Step
 
-The next step in our goal of creating Interface Vision's Gui based visual development environment is to create a view that can easily display collections (aggregates).
+The [next step]({% post_url 2014-02-19-css-layout-engine %}) in our goal of creating Interface Vision's Gui based visual development environment is to create a view that can easily display collections (aggregates).
 
 The [prior step]({% post_url 2014-01-23-example-zoom-in-out %}) in our goal of creating Interface Vision's Gui based visual development environment was to allow us to zoom in and out of a view using the pinch gesture.
 

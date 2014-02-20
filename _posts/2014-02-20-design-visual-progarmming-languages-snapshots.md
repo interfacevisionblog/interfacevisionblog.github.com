@@ -267,7 +267,7 @@ From Microsoft research.
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_tydlig_01.png"><img></p>
 
 ### UDK
-[Image Source](http://www.youtube.com/watch?v=0OR63rDN5p8) and [Web Site](https://www.3dmotive.com/)
+[Image Source](http://www.youtube.com/watch?v=0OR63rDN5p8) and [Web Site](http://www.unrealengine.com/en/udk/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
 

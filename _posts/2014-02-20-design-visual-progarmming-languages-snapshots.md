@@ -56,6 +56,13 @@ We aren't associated with any of the groups below. We just find their solutions 
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drakon_01.png"><img></p>
 
+### Etoys / Squeak
+
+[Image Source](http://en.wikipedia.org/wiki/File:Squeak-screenshot.png), [Wikipedia](http://en.wikipedia.org/wiki/Etoys_%28programming_language%29) and [Web Site](http://www.squeakland.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_etoysqueak_01.png"><img></p>
+
+
 ### Field
 [Image Source](http://openendedgroup.com/field/OverviewBanners2.html) and [Web Site](http://openendedgroup.com/field/)
 

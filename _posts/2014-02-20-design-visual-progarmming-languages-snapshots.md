@@ -292,8 +292,6 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_touchdevelop_01.jpg"><img></p>
 
-
-
 ### Tydlig
 [Image Source](http://tydligapp.com/images/screenshots/1-physics.png) and [Web Site](http://tydligapp.com/)
 
@@ -308,6 +306,12 @@ From Microsoft research.
 [Image Source](http://i1.ytimg.com/vi/iz5numHchGU/maxresdefault.jpg) and [Web Site](http://www.dukascopy.com/swiss/english/forex/Visual/features/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_jforex_01.jpg"><img></p>
+
+### VUO
+
+[Image Source](http://www.vjunion.se/2013/03/a-great-start-to-the-new-year/) and [Web Site](http://vuo.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_vuo_01.png"><img></p>
 
 ### VVVV
 [Image Source 1](http://vvvv.org/contribution/vvvv.packs.image), [Image Source 2](http://kristiansmusicproductionblog.com/wp-content/uploads/vvvv.png), [Wikipedia](http://en.wikipedia.org/wiki/Vvvv) and [Web Site](http://www.vvvv.org/)

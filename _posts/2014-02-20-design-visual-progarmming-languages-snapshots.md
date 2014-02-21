@@ -146,7 +146,10 @@ Flow-Based Programming.
 ### LabView
 [Image Source](http://www.ni.com/newsletter/51735/en/), [Wikipedia](http://en.wikipedia.org/wiki/LabVIEW) and [Web Site](http://www.ni.com/)
 
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_labview_02.png"><img></p>
+
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_labview_01.jpg"><img></p>
+Note: The wrong way to use LabView
 
 ### Ladder Logic
 [Image Source](http://en.wikipedia.org/wiki/Ladder_logic), [Wikipedia](http://en.wikipedia.org/wiki/Ladder_logic) and [Web Site]()

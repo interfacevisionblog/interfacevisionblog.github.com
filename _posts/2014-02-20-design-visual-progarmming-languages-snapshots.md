@@ -300,6 +300,12 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_piet_01.gif"><img></p>
 
+### Pipes
+[Image Source](http://halfblog.net/2013/02/28/updating-datahole/yahoo-pipes-datahole/), [Wikipedia](http://en.wikipedia.org/wiki/Yahoo!_Pipes) and [Web Site](http://pipes.yahoo.com/pipes/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pipes_01.png"><img></p>
+
+
 ### Programming Without Coding Technology
 [Image Source](http://sourceforge.net/projects/doublesvsoop/?source=recommended) and [Web Site](http://doublesvsoop.sourceforge.net/)
 

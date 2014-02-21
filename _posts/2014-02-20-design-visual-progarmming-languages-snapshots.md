@@ -117,6 +117,11 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hopscotch_01.png"><img></p>
 
+### HyperCard
+[Image Source](http://www.smackerel.net/black_white_02.html), [Wikipedia](http://en.wikipedia.org/wiki/HyperCard) and [Web Site???](http://hypercard.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hypercard_01.gif"><img></p>
+
 ### IFTTT
 [Image Source](https://ifttt.com/recipes), [Wikipedia](http://en.wikipedia.org/wiki/Ifttt) and [Web Site](https://ifttt.com/wtf)
 

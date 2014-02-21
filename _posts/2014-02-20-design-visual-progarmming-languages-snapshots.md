@@ -41,6 +41,12 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_alice_01.jpg"><img></p>
 
+
+### Appacitive
+[Image Source](http://vimeo.com/84661858) and [Web Site](http://appacitive.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appacitive_01.jpg"><img></p>
+
 ### App Inventor For Android
 [Image Source](http://beta.appinventor.mit.edu/learn/tutorials/whereismycar/whereismycar.html), [Wikipedia](http://en.wikipedia.org/wiki/App_Inventor_for_Android) and [Web Site](http://appinventor.mit.edu/explore/)
 

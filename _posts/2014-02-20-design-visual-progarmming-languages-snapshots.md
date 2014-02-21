@@ -46,6 +46,11 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_inventor_01.png"><img></p>
 
+### ArcGIS Model Builder
+[Image Source](http://www.rockware.com/product/featuresLobby.php?id=193&category=615) and [Web Site](http://resources.arcgis.com/en/help/main/10.1/index.html#//002w00000001000000)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_arcgis_01.gif"><img></p>
+
 ### Automator
 [Image Source](http://www.apple.com/remotedesktop/automation.html), [Wikipedia](http://en.wikipedia.org/wiki/Automator_%28software%29) and [Web Site](http://www.apple.com/osx/apps/#automator)
 
@@ -299,6 +304,11 @@ Legos!!!
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_02.png"><img></p>
 
+### Sextante
+
+[Image Source](http://www.gvsig.com/files/images/screenshots/gvSIG_Sextante_02.png) and [Web Site](http://sextantegis.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sextante_01.png"><img></p>
 
 ### Simulink
 
@@ -352,6 +362,16 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_vvvv_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_vvvv_02.png"><img></p>
+
+
+### Windows Workflow Foundation
+
+[Image Source](http://fryerblog.com/post/2179029238/a-windows-workflow-foundation-example), [Wikipedia](http://en.wikipedia.org/wiki/Windows_Workflow_Foundation) and [Web Site](http://msdn.microsoft.com/en-us/vstudio/jj684582.aspx)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_winworkflow_01.png"><img></p>
+
+
+
 
 ## Conclusion
 

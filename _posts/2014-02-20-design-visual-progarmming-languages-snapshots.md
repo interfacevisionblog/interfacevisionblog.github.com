@@ -312,6 +312,13 @@ Legos!!!
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_02.png"><img></p>
 
+
+### Self
+
+[Image Source](http://handbook.selflanguage.org/current/langref.html#objects), [Wikipedia](http://en.wikipedia.org/wiki/Self_%28programming_language%29) and [Web Site](http://selflanguage.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_self_01.png"><img></p>
+
 ### Sextante
 
 [Image Source](http://www.gvsig.com/files/images/screenshots/gvSIG_Sextante_02.png) and [Web Site](http://sextantegis.com/)

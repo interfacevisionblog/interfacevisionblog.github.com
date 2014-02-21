@@ -36,11 +36,17 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sketchpad_01.jpg"><img></p>
 
+### AgentSheets and AgentCubes
+
+[Image Source](http://www.agentsheets.com/), [Wikipedia](http://en.wikipedia.org/wiki/Agentsheets) and [Web Site](http://www.agentsheets.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_agentsheets_01.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_agentcubes_01.png"><img></p>
+
 ### Alice
 [Image Source](http://www.alice.org/index.php), [Wikipedia](http://en.wikipedia.org/wiki/Alice_%28software%29) and [Web Site](http://en.wikipedia.org/wiki/File:Alice-2-screenshot.jpg)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_alice_01.jpg"><img></p>
-
 
 ### Appacitive
 [Image Source](http://vimeo.com/84661858) and [Web Site](http://appacitive.com/)

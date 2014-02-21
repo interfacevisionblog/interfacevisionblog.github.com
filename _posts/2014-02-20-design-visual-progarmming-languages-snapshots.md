@@ -364,6 +364,16 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sikuli_01.png"><img></p>
 
+### Snap!
+
+[Image Source](http://snap.berkeley.edu/run) and [Web Site](http://snap.berkeley.edu)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_01.png"><img></p>
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_02.png"><img></p>
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_03.png"><img></p>
+
 ### SQL Server Integration Services
 
 [Image Source](http://technet.microsoft.com/en-us/library/cc917721.aspx), [Wikipedia](http://en.wikipedia.org/wiki/SQL_Server_Integration_Services) and [Web Site](http://www.microsoft.com/en-us/sqlserver/solutions-technologies/enterprise-information-management/integration-services.aspx)

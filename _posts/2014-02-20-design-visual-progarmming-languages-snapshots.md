@@ -321,6 +321,11 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_reaktor_01.gif"><img></p>
 
+### Scheme Bricks
+[Image Source](http://www.pawfal.org/dave/blog/2010/05/scheme-bricks-for-graphics/) and [Web Site](http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_schemebricks_01.png"><img></p>
+
 ### Scratch
 [Image Source 1](http://scratch.mit.edu/projects/11126006/#editor), [Image Source 2](http://scratch.mit.edu/projects/11126006/#editor), [Wikipedia](http://en.wikipedia.org/wiki/Scratch_%28programming_language%29) and [Web Site](http://scratch.mit.edu/)
 

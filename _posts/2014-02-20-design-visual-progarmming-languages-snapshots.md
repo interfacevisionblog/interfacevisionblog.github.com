@@ -56,6 +56,11 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_automator_01.jpg"><img></p>
 
+### Blockly
+[Image Source](http://i.imgur.com/PfJO2.png) and [Web Site](https://code.google.com/p/blockly/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_blockly_01.png"><img></p>
+
 ### Bounce
 [Image Source](http://www.art.net/~hopkins/Don/lang/bounce/SpaceSeedCircuits.gif) and [Web Site](http://www.art.net/~hopkins/Don/lang/bounce/bounce.html)
 

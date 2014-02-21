@@ -153,9 +153,6 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_labview_02.png"><img></p>
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_labview_01.jpg"><img></p>
-Note: The wrong way to use LabView
-
 ### Ladder Logic
 [Image Source](http://en.wikipedia.org/wiki/Ladder_logic), [Wikipedia](http://en.wikipedia.org/wiki/Ladder_logic) and [Web Site]()
 

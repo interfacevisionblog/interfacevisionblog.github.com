@@ -20,6 +20,8 @@ If you have a visual language you would like to add to this post, then please se
 
 If you find our work interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick) for more posts on visual programming languages.
 
+Discussion on [Hacker News](https://news.ycombinator.com/item?id=7274674).
+
 ## Visual Programming Languages
 
 There are a lot of domain specific visual languages available to play with and check out. Over the years, we've been collecting a list of different environments that we feel, in one way or another, could be viewed as visual programming languages.
@@ -33,7 +35,6 @@ Maybe the first. 1963.
 [Image Source](http://mydiesel22.blogspot.com/2011/05/vector-and-digital-graphics.html), [Wikipedia](http://en.wikipedia.org/wiki/Sketchpad) and [Web Site](http://www.youtube.com/watch?v=495nCzxM9PI&feature=player_embedded)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sketchpad_01.jpg"><img></p>
-
 
 ### Alice
 [Image Source](http://www.alice.org/index.php), [Wikipedia](http://en.wikipedia.org/wiki/Alice_%28software%29) and [Web Site](http://en.wikipedia.org/wiki/File:Alice-2-screenshot.jpg)
@@ -130,6 +131,12 @@ Flow-Based Programming.
 [Web Site](http://www.kimonolabs.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_kimono_01.png"><img></p>
+
+### Kodu (Boku)
+
+[Image Source](http://www.interactiveclassroom.net/?p=508), [Wikipedia](http://en.wikipedia.org/wiki/Kodu) and [Web Site](http://research.microsoft.com/en-us/projects/kodu/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_kodu_01.png"><img></p>
 
 ### LabView
 [Image Source](http://www.ni.com/newsletter/51735/en/), [Wikipedia](http://en.wikipedia.org/wiki/LabVIEW) and [Web Site](http://www.ni.com/)

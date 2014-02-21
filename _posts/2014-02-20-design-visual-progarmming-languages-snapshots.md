@@ -325,6 +325,12 @@ Legos!!!
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_simlink_01.png"><img></p>
 
 
+### Sikuli
+
+[Image Source](http://hellotestworld.com/2012/04/27/sikuli-for-all-those-hard-to-reach-places/), [Wikipedia](http://en.wikipedia.org/wiki/Sikuli) and [Web Site](http://www.sikuli.org)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sikuli_01.png"><img></p>
+
 ### SQL Server Integration Services
 
 [Image Source](http://technet.microsoft.com/en-us/library/cc917721.aspx), [Wikipedia](http://en.wikipedia.org/wiki/SQL_Server_Integration_Services) and [Web Site](http://www.microsoft.com/en-us/sqlserver/solutions-technologies/enterprise-information-management/integration-services.aspx)

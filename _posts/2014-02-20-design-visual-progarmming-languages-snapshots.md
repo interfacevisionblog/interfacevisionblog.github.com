@@ -225,6 +225,12 @@ Someone built an An [8-bit Mechanical Adder in LittleBigPlanet](http://www.youtu
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_littlebig_01.png"><img></p>
 
+### MAX/MSP Jitter
+
+[Image Source](http://www.kx1.us/sites/spacefillingcurve_net//programming/maxmsp/) and [Web Site](http://cycling74.com/products/max/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_max_01.jpg"><img></p>
+
 ### Minecraft
 
 Considering someone has created a [fully programmable computer](http://www.youtube.com/watch?v=frcr9XYeTW4) using Minecraft.

@@ -190,6 +190,14 @@ Really cool and hard to describe. You need to visit their demo web page and watc
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_limnorstudio_01.png"><img></p>
 
+### Little Big Planet
+
+Someone built an An [8-bit Mechanical Adder in LittleBigPlanet](http://www.youtube.com/watch?v=jWanvKdurU0)
+
+[Image Source](http://www.youtube.com/watch?v=jWanvKdurU0), [Wikipedia](http://en.wikipedia.org/wiki/LittleBigPlanet) and [Web Site](http://littlebigplanet.playstation.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_littlebig_01.png"><img></p>
+
 ### Minecraft
 
 Considering someone has created a [fully programmable computer](http://www.youtube.com/watch?v=frcr9XYeTW4) using Minecraft.

@@ -36,6 +36,14 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sketchpad_01.jpg"><img></p>
 
+
+### Aardappel
+
+[Image Source](http://strlen.com/aardappel-language/) and [Web Site](http://strlen.com/aardappel-language)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_aardappel_01.gif"><img></p>
+
+
 ### AgentSheets and AgentCubes
 
 [Image Source](http://www.agentsheets.com/), [Wikipedia](http://en.wikipedia.org/wiki/Agentsheets) and [Web Site](http://www.agentsheets.com/)

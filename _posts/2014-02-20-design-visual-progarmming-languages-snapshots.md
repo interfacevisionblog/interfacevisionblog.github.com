@@ -142,6 +142,11 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_IntentionalTech_01.png"><img></p>
 
+### Jeskola Buzz
+[Image Source](http://blog.livedoor.jp/acid808/archives/cat_693944.html), [Wikipedia](http://en.wikipedia.org/wiki/Jeskola_Buzz) and [Web Site](http://www.jeskola.net/buzz/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_jeskolabuzz_01.jpg"><img></p>
+
 ### Kimono
 [Web Site](http://www.kimonolabs.com/)
 

@@ -364,6 +364,12 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_stroycode_01.png"><img></p>
 
+### TextIt
+
+[Image Source](https://textit.in/) and [Web Site](https://textit.in/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_textit_01.png"><img></p>
+
 ### Touch Develop
 
 From Microsoft research.

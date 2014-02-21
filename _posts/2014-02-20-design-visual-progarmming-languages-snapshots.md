@@ -26,6 +26,15 @@ There are a lot of domain specific visual languages available to play with and c
 
 We aren't associated with any of the groups below. We just find their solutions interesting. A lot of these were found by browsing Wikipedia's [Visual Programming Language](http://en.wikipedia.org/wiki/Visual_programming_language) entry.
 
+### SketchPad
+
+Maybe the first. 1963.
+
+[Image Source](http://mydiesel22.blogspot.com/2011/05/vector-and-digital-graphics.html), [Wikipedia](http://en.wikipedia.org/wiki/Sketchpad) and [Web Site](http://www.youtube.com/watch?v=495nCzxM9PI&feature=player_embedded)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sketchpad_01.jpg"><img></p>
+
+
 ### Alice
 [Image Source](http://www.alice.org/index.php), [Wikipedia](http://en.wikipedia.org/wiki/Alice_%28software%29) and [Web Site](http://en.wikipedia.org/wiki/File:Alice-2-screenshot.jpg)
 

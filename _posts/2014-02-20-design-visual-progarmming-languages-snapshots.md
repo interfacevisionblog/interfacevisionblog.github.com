@@ -104,6 +104,13 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_copper_01.png"><img></p>
 
+{#touchdesigner}
+### TouchDesigner
+[Direct Link](#touchdesigner), [Image Source](https://www.derivative.ca/Events/2014/Week01/), [Wikipedia](http://en.wikipedia.org/wiki/Houdini_%28software%29#TouchDesigner) and [Web Site](https://www.derivative.ca/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_touchdesigner_01.jpg"><img></p>
+
+
 {#drakon}
 ### DRAKON
 [Direct Link](#drakon), [Image Source](http://en.wikipedia.org/wiki/DRAKON), [Wikipedia](http://en.wikipedia.org/wiki/DRAKON) and [Web Site](http://drakon-editor.sourceforge.net/)

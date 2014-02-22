@@ -127,6 +127,7 @@ Flow-Based Programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flohub_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_01.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_02.jpg"><img></p>
 
 ### FlowStone
 [Image Source](http://en.wikipedia.org/wiki/File:FlowStone_Large_Screenshot.png) and [Web Site](http://www.dsprobotics.com/flowstone.html)

@@ -468,9 +468,9 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sqlintegration_01.png"><img></p>
 
-{#story-code}
-### Story Code
-[Direct Link](#story-code), [Image Source](http://softconstructors.com/en/applications/stroycode/screenshots.html) and [Web Site](http://softconstructors.com/en/applications/stroycode/)
+{#stroycode}
+### StroyCode
+[Direct Link](#stroycode), [Image Source](http://softconstructors.com/en/applications/stroycode/screenshots.html) and [Web Site](http://softconstructors.com/en/applications/stroycode/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_stroycode_01.png"><img></p>
 

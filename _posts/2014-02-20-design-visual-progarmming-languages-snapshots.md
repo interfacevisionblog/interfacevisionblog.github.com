@@ -446,6 +446,12 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_jforex_01.jpg"><img></p>
 
+### Viscuit
+
+[Image Source](http://plus.appgiga.jp/masatolan/2013/12/12/49814/) and [Web Site](http://www.viscuit.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_viscuit_01.jpg"><img></p>
+
 ### VUO
 
 [Image Source](http://www.vjunion.se/2013/03/a-great-start-to-the-new-year/) and [Web Site](http://vuo.org/)

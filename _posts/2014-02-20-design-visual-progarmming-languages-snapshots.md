@@ -71,6 +71,12 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_arcgis_01.gif"><img></p>
 
+### Audulus
+[Image Source](http://www.musicappblog.com/audulus-review/) and [Web Site](http://www.musicappblog.com/audulus-review/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_audulus_01.jpg"><img></p>
+
+
 ### Automator
 [Image Source](http://www.apple.com/remotedesktop/automation.html), [Wikipedia](http://en.wikipedia.org/wiki/Automator_%28software%29) and [Web Site](http://www.apple.com/osx/apps/#automator)
 

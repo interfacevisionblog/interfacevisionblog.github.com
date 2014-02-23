@@ -382,9 +382,14 @@ Legos!!!
 
 {#openwire}
 ### OpenWire
-[Direct Link](#openwire), [Image Source](http://www.mitov.com/products/openwire#screenshots), [Wikipedia](http://en.wikipedia.org/wiki/OpenWire_%28library%29) and [Web Site](http://www.mitov.com/products/openwire#overview)
+[Direct Link](#openwire), [Image Source](http://www.mitov.com/products/openwire#screenshots), [Wikipedia](http://en.wikipedia.org/wiki/OpenWire_%28library%29), [Youtube](http://www.youtube.com/watch?v=MAuqNjoYuhg) and [Web Site](http://www.mitov.com/products/openwire#overview)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_openwire_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/MAuqNjoYuhg?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#origami}
 ### Origami
@@ -424,9 +429,14 @@ Legos!!!
 
 {#quartz-composer}
 ### Quartz Composer
-[Direct Link](#quartz-composer), [Image Source](http://mastersofmedia.hum.uva.nl/2011/10/24/finally-it-comes-together/), [Wikipedia](http://en.wikipedia.org/wiki/Quartz_Composer) and [Web Site](https://developer.apple.com/technologies/mac/graphics-and-animation.html)
+[Direct Link](#quartz-composer), [Image Source](http://mastersofmedia.hum.uva.nl/2011/10/24/finally-it-comes-together/), [Wikipedia](http://en.wikipedia.org/wiki/Quartz_Composer), [Youtube](http://www.youtube.com/watch?v=kTmqc_At2bY) and [Web Site](https://developer.apple.com/technologies/mac/graphics-and-animation.html)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_quartz_01.jpg"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/kTmqc_At2bY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#reaktor}
 ### Reaktor
@@ -515,9 +525,14 @@ From Microsoft research.
 
 {#tydlig}
 ### Tydlig
-[Direct Link](#tydlig), [Image Source](http://tydligapp.com/images/screenshots/1-physics.png) and [Web Site](http://tydligapp.com/)
+[Direct Link](#tydlig), [Image Source](http://tydligapp.com/images/screenshots/1-physics.png), [Youtube](http://www.youtube.com/watch?feature=player_embedded&v=xbXaKxxUomE) and [Web Site](http://tydligapp.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_tydlig_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/xbXaKxxUomE?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#udk}
 ### UDK
@@ -533,9 +548,15 @@ From Microsoft research.
 
 {#viscuit}
 ### Viscuit
-[Direct Link](#viscuit), [Image Source](http://plus.appgiga.jp/masatolan/2013/12/12/49814/) and [Web Site](http://www.viscuit.com/)
+[Direct Link](#viscuit), [Image Source](http://plus.appgiga.jp/masatolan/2013/12/12/49814/), [Youtube](http://www.youtube.com/watch?v=ZdWyahyNepg) and [Web Site](http://www.viscuit.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_viscuit_01.jpg"><img></p>
+
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/ZdWyahyNepg?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#vuo}
 ### VUO

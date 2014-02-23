@@ -146,9 +146,13 @@ Maybe the first. 1963.
 
 {#flowstone}
 ### FlowStone
-[Direct Link](#flowstone), [Image Source](http://en.wikipedia.org/wiki/File:FlowStone_Large_Screenshot.png) and [Web Site](http://www.dsprobotics.com/flowstone.html)
+[Direct Link](#flowstone), [Image Source](http://en.wikipedia.org/wiki/File:FlowStone_Large_Screenshot.png), [Youtube](http://www.youtube.com/watch?v=yEIao2tm3WE) and [Web Site](http://www.dsprobotics.com/flowstone.html)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flowstone_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/yEIao2tm3WE?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#godot-engine}
 ### GoDot Engine

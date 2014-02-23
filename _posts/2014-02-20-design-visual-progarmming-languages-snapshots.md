@@ -326,9 +326,16 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 
 {#mst-workshop}
 ### MST  Workshop
-[Direct Link](#mst-workshop), [Image Source](http://home.comcast.net/~tpandolfi/site/?/photos/&PHPSESSID=63621f2035fe55537d794ab0ac795934), [Wikipedia](http://en.wikipedia.org/wiki/MST_Workshop) and [Web Site](http://home.comcast.net/~tpandolfi/site/?/home/)
+[Direct Link](#mst-workshop), [Image Source](http://home.comcast.net/~tpandolfi/site/?/photos/&PHPSESSID=63621f2035fe55537d794ab0ac795934), [Wikipedia](http://en.wikipedia.org/wiki/MST_Workshop), [Youtube](http://www.youtube.com/watch?v=X6LCaEHYNRE) and [Web Site](http://home.comcast.net/~tpandolfi/site/?/home/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_mst_01.jpg"><img></p>
+
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/X6LCaEHYNRE?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
+
 
 {#neattools-visual-programming-environment}
 ### NeatTools Visual Programming Environment

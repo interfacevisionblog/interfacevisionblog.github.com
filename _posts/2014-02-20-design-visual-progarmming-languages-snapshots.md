@@ -10,7 +10,9 @@ author_twitter: erichosick
 
 ## Introduction
 
-There didn't seem to be a place on the net where someone could easily see what all the different visual programming languages look like. A lot of images now. It is worth the wait (I don't want to split this into multiple pages: it would reck the experience).
+There didn't seem to be a place on the net where someone could easily see what all the different visual programming languages look like.
+
+A lot of Snapshots now. It is worth the download wait (I don't want to split this into multiple pages: it would wreck the experience).
 
 So, this post is just a lot of really cool screenshots and images of different visual programming languages. Have fun checking them all out.
 
@@ -127,7 +129,7 @@ Maybe the first. 1963.
 ### DrawFBP
 [Direct Link](#drawfbp), [Image Source](http://www.jpaulmorrison.com/graphicsstuff/), [Wikipedia](http://en.wikipedia.org/wiki/Flow-based_programming#Software_on_FBP_web_site) and [Web Site](http://www.jpaulmorrison.com/graphicsstuff/)
 
-Flow based programming implemented visually by the creator of flow based programming: [John Paul Morrison](http://en.wikipedia.org/wiki/John_Paul_Morrison).
+[Flow-based programming](http://en.wikipedia.org/wiki/Flow-based_programming) implemented visually by the creator of flow-based programming: [John Paul Morrison](http://en.wikipedia.org/wiki/John_Paul_Morrison).
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drawfbp_01.jpg"><img></p>
 

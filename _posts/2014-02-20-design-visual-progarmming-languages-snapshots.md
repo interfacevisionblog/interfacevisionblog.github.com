@@ -357,11 +357,16 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 
 {#NXT-G}
 ### NXT-G
-[Direct Link](#NXT-G), [Image Source](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=2051945), [Wikipedia](http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT#NXT-G) and [Web Site](http://www.legoengineering.com/program/nxt-g/)
+[Direct Link](#NXT-G), [Image Source](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=2051945), [Youtube](http://www.youtube.com/watch?v=SpAXlycjrRo) [Wikipedia](http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT#NXT-G) and [Web Site](http://www.legoengineering.com/program/nxt-g/)
 
 Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nxt-g_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/SpAXlycjrRo?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#open-modelica}
 ### Open Modelica

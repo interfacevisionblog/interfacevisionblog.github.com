@@ -45,10 +45,15 @@ Maybe the first. 1963.
 
 {#agentSheets}
 ### AgentSheets and AgentCubes
-[Direct Link](#agentSheets), [Image Source](http://www.agentsheets.com/), [Wikipedia](http://en.wikipedia.org/wiki/Agentsheets) and [Web Site](http://www.agentsheets.com/)
+[Direct Link](#agentSheets), [Image Source](http://www.agentsheets.com/), [Wikipedia](http://en.wikipedia.org/wiki/Agentsheets), [Youtube](https://www.youtube.com/watch?v=unDgy6jKpYY) and [Web Site](http://www.agentsheets.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_agentsheets_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_agentcubes_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/unDgy6jKpYY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#alice}
 ### Alice

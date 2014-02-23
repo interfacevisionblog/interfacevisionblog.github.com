@@ -216,9 +216,13 @@ Maybe the first. 1963.
 
 {#kodu}
 ### Kodu (Boku)
-[Direct Link](#kodu), [Image Source](http://www.interactiveclassroom.net/?p=508), [Wikipedia](http://en.wikipedia.org/wiki/Kodu) and [Web Site](http://research.microsoft.com/en-us/projects/kodu/)
+[Direct Link](#kodu), [Image Source](http://www.interactiveclassroom.net/?p=508), [Wikipedia](http://en.wikipedia.org/wiki/Kodu), [Youtube](http://www.youtube.com/watch?v=8-FjskAHgN0) and [Web Site](http://research.microsoft.com/en-us/projects/kodu/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_kodu_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/8-FjskAHgN0?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#labview}
 ### LabView
@@ -426,10 +430,15 @@ Legos!!!
 
 {#scratch}
 ### Scratch
-[Direct Link](#scratch), [Image Source 1](http://scratch.mit.edu/projects/11126006/#editor), [Image Source 2](http://scratch.mit.edu/projects/11126006/#editor), [Wikipedia](http://en.wikipedia.org/wiki/Scratch_%28programming_language%29) and [Web Site](http://scratch.mit.edu/)
+[Direct Link](#scratch), [Image Source 1](http://scratch.mit.edu/projects/11126006/#editor), [Image Source 2](http://scratch.mit.edu/projects/11126006/#editor), [Wikipedia](http://en.wikipedia.org/wiki/Scratch_%28programming_language%29), [Youtube](http://www.youtube.com/watch?v=4YoGkwV7D9c) and [Web Site](http://scratch.mit.edu/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_scratch_02.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/4YoGkwV7D9c?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#self}
 ### Self

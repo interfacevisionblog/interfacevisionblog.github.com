@@ -122,6 +122,14 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drakon_01.png"><img></p>
 
+{#drawfbp}
+### DrawFBP
+[Direct Link](#drawfbp), [Image Source](http://www.jpaulmorrison.com/graphicsstuff/), [Wikipedia](http://en.wikipedia.org/wiki/Flow-based_programming#Software_on_FBP_web_site) and [Web Site](http://www.jpaulmorrison.com/graphicsstuff/)
+
+Flow based programming implemented visually by the creator of flow based programming: [John Paul Morrison](http://en.wikipedia.org/wiki/John_Paul_Morrison).
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drawfbp_01.jpg"><img></p>
+
 
 {#etoys}
 ### Etoys / Squeak

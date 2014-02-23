@@ -10,7 +10,7 @@ author_twitter: erichosick
 
 ## Introduction
 
-There didn't seem to be a place on the net where someone could easily see what all the different visual programming languages look like.
+There didn't seem to be a place on the net where someone could easily see what all the different visual programming languages look like. A lot of images now. It is worth the wait (I don't want to split this into multiple pages: it would reck the experience).
 
 So, this post is just a lot of really cool screenshots and images of different visual programming languages. Have fun checking them all out.
 
@@ -21,6 +21,7 @@ If you have a visual language you would like to add to this post, then please se
 If you find our work interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick) for more posts on visual programming languages.
 
 Discussion on [Hacker News](https://news.ycombinator.com/item?id=7274674).
+
 
 ## Visual Programming Languages
 

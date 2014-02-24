@@ -156,7 +156,7 @@ Maybe the first. 1963.
 {#flexmonkey}
 ### ReDiLab:Node
 {#redilab-node}
-[Direct Link](#flexmonkey), [Try It Out Here](http://flexmonkey.co.uk/redilab-node-006/ReDiLabNode.html), [Image Source](http://flexmonkey.blogspot.com/) and [Web Site](http://flexmonkey.co.uk/)
+[Direct Link](#flexmonkey), [Try It Out Here](http://flexmonkey.co.uk/redilab-node-006/ReDiLabNode.html), [Calculator](http://www.flexmonkey.co.uk/calc_v1/NodeRenderer.html), [Image Source](http://flexmonkey.blogspot.com/) and [Web Site](http://flexmonkey.co.uk/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flexmonkey_01.png"><img></p>
 
@@ -334,6 +334,17 @@ Considering someone has created a [fully programmable computer](http://www.youtu
 This has a really cool looking interface.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_minibloq_01.png"><img></p>
+
+
+{#minkoshaderLab}
+### Minko ShaderLab
+[Direct Link](#minkoshaderLab), [Image Source](https://www.youtube.com/watch?v=yuR1e1PjU8Y), [Youtube](https://www.youtube.com/watch?v=yuR1e1PjU8Y) and [Web Site](http://blog.aerys.in/2012/02/06/new-minko-shaderlab-preview/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_minkoshaderLab_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/yuR1e1PjU8Y?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#morphic}
 ### Morphic

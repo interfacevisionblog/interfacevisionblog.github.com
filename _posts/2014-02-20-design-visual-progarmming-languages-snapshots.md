@@ -555,8 +555,8 @@ From Microsoft research.
 </p>
 
 {#thymio}
-### Thymio
-[Direct Link](#thymio), [Image Source](https://aseba.wikidot.com/en:thymiovpl), [Youtube](https://www.youtube.com/watch?v=o0K7Bo3pAFY) and [Web Site](https://aseba.wikidot.com/en:thymiovpl)
+### Thymio VPL
+[Direct Link](#thymio), [Image Source](http://thymio.org/), [Youtube](https://www.youtube.com/watch?v=o0K7Bo3pAFY) and [Web Site](http://thymio.org/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_thymio_01.png"><img></p>
 

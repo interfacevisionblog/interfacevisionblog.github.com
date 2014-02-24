@@ -554,6 +554,16 @@ From Microsoft research.
 <iframe width="746" height="420" src="http://www.youtube.com/embed/xbXaKxxUomE?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#thymio}
+### Thymio
+[Direct Link](#thymio), [Image Source](https://aseba.wikidot.com/en:thymiovpl), [Youtube](https://www.youtube.com/watch?v=o0K7Bo3pAFY) and [Web Site](https://aseba.wikidot.com/en:thymiovpl)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_thymio_01.png"><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="http://www.youtube.com/embed/o0K7Bo3pAFY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 
 {#udk}
 ### UDK

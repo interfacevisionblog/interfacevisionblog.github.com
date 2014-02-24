@@ -152,10 +152,11 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flstudiopatcher_01.jpg"><img></p>
 
-{#rediLab-node}
+
 {#flexmonkey}
+{#redilab-node}
 ### ReDiLab:Node
-[Direct Link](#rediLab-node), [Try It Out Here](http://flexmonkey.co.uk/redilab-node-006/ReDiLabNode.html), [Image Source](http://flexmonkey.blogspot.com/) and [Web Site](http://flexmonkey.co.uk/)
+[Direct Link](#flexmonkey), [Try It Out Here](http://flexmonkey.co.uk/redilab-node-006/ReDiLabNode.html), [Image Source](http://flexmonkey.blogspot.com/) and [Web Site](http://flexmonkey.co.uk/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flexmonkey_01.png"><img></p>
 

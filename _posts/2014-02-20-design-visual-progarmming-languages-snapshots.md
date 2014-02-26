@@ -70,6 +70,15 @@ Maybe the first. 1963.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appacitive_01.jpg"><img></p>
 
+
+{#appware}
+### AppWare
+[Direct Link](#appware), [Image Source](http://www.prichystal.cz/Archiv_c/Computer/Appware/appware.htm), [Wikipedia](http://en.wikipedia.org/wiki/AppWare) and [Web Site](http://appacitive.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appware_01.png"><img></p>
+
+
+
 {#app-inventor-for-android}
 ### App Inventor For Android
 [Direct Link](#app-inventor-for-android), [Image Source](http://beta.appinventor.mit.edu/learn/tutorials/whereismycar/whereismycar.html), [Wikipedia](http://en.wikipedia.org/wiki/App_Inventor_for_Android) and [Web Site](http://appinventor.mit.edu/explore/)
@@ -238,6 +247,12 @@ Maybe the first. 1963.
 [Direct Link](#kimono), [Web Site](http://www.kimonolabs.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_kimono_01.png"><img></p>
+
+{#knime}
+### Knime
+[Direct Link](#knime), [Image Source](http://www.knime.org/) and [Web Site](http://www.knime.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_knime_01.png"><img></p>
 
 {#kodu}
 ### Kodu (Boku)

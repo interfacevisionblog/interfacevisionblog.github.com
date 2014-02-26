@@ -610,11 +610,19 @@ From Microsoft research.
 </p>
 
 
+{#udk-kismet}
+### UDK Kismet
+[Direct Link](#udk-kismet), [Image Source](http://forums.epicgames.com/threads/603843-Kismet-Abort-Move-action-does-not-work) and [Web Site](http://www.worldofleveldesign.com/categories/wold-members-tutorials/petebottomley/udk-kismet-introduction.php)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udkkismet_01.jpg"><img></p>
+
 {#udk}
-### UDK
+### UDK 
 [Direct Link](#udk), [Image Source](http://www.youtube.com/watch?v=0OR63rDN5p8) and [Web Site](http://www.unrealengine.com/en/udk/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
+
+
 
 {#visual-jforex}
 ### Visual JForex

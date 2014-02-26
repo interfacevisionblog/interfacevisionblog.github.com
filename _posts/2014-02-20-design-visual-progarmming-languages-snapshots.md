@@ -418,16 +418,14 @@ Legos!!!
 <iframe width="746" height="420" src="http://www.youtube.com/embed/SpAXlycjrRo?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
-
 {#marten}
 ### Marten
 
-Marten is an implementation of the [Propgraph](http://en.wikipedia.org/wiki/Prograph) language.
+Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Prograph) language.
 
 [Direct Link](#marten), [Image Source](http://www.andescotia.com/examples/) and [Web Site](http://www.andescotia.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_marten_01.png"><img></p>
-
 
 {#open-modelica}
 ### Open Modelica

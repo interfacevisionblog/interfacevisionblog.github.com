@@ -10,6 +10,8 @@ author_twitter: erichosick
 
 ## Introduction
 
+Please take a moment to [join a Visual Programming Group]({% post_url 2014-02-27-the-visual-programming-group %}) in your area.
+
 There didn't seem to be a place on the net where someone could easily see what all the different visual programming languages (Graphical Programming Languages) look like.
 
 A lot of Snapshots now. It is worth the download wait (I don't want to split this into multiple pages: it would wreck the experience).

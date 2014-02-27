@@ -571,14 +571,6 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 <iframe width="746" height="420" src="http://www.youtube.com/embed/4YoGkwV7D9c?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
-
-{#self}
-### Self
-
-[Direct Link](#self), [Image Source](http://handbook.selflanguage.org/current/langref.html#objects), [Wikipedia](http://en.wikipedia.org/wiki/Self_%28programming_language%29) and [Web Site](http://selflanguage.org/)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_self_01.png"><img></p>
-
 {#sextante}
 ### Sextante
 [Direct Link](#sextante), [Image Source](http://www.gvsig.com/files/images/screenshots/gvSIG_Sextante_02.png) and [Web Site](http://sextantegis.com/)

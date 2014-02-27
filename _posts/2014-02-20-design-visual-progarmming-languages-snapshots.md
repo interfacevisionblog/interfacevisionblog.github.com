@@ -427,6 +427,16 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_marten_01.png"><img></p>
 
+
+
+{#mindplus}
+### Mindplus
+
+[Direct Link](#mindplus), [Image Source](http://www.mindplus.cc/wp-content/uploads/2013/09/button-led-2.gif) and [Web Site](http://www.mindplus.cc/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_mindplus_01.gif"><img></p>
+
+
 {#open-modelica}
 ### Open Modelica
 [Direct Link](#open-modelica), [Image Source](http://www.marekgayer.com/en/projects/incfd/) and [Web Site](https://www.openmodelica.org/)

@@ -430,7 +430,7 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 
 {#mindplus}
-### Mindplus
+### Mind+
 
 [Direct Link](#mindplus), [Image Source](http://www.mindplus.cc/wp-content/uploads/2013/09/button-led-2.gif) and [Web Site](http://www.mindplus.cc/)
 

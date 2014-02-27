@@ -233,6 +233,9 @@ First "iconic" programing ~ 1968
 
 {#hypercard}
 ### HyperCard
+
+Note: see also [LiveCode](#livecode)
+
 [Direct Link](#hypercard), [Image Source](http://www.smackerel.net/black_white_02.html), [Wikipedia](http://en.wikipedia.org/wiki/HyperCard) and [Web Site???](http://hypercard.org/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hypercard_01.gif"><img></p>
@@ -345,6 +348,14 @@ Really cool and hard to describe. You need to visit their demo web page and watc
 Someone built an An [8-bit Mechanical Adder in LittleBigPlanet](http://www.youtube.com/watch?v=jWanvKdurU0)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_littlebig_01.png"><img></p>
+
+
+{#livecode}
+### LiveCode
+
+[Direct Link](#livecode), Image Source, [Wikipedia](http://en.wikipedia.org/wiki/LiveCode) and [Web Site](http://runrev.com/)
+
+Looking for an image.
 
 {#max-msp-jitter}
 ### MAX/MSP Jitter

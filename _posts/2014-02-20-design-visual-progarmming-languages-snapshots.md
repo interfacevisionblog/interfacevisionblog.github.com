@@ -225,6 +225,12 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hopscotch_01.png"><img></p>
 
+{#houdini}
+### Houdini (Node Based Workflow)
+[Direct Link](#houdini), [Image Source](http://a.disquscdn.com/uploads/mediaembed/images/858/46/original.jpg) and [Web Site](https://www.sidefx.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_houdini_01.jpg"><img></p>
+
 {#hypercard}
 ### HyperCard
 [Direct Link](#hypercard), [Image Source](http://www.smackerel.net/black_white_02.html), [Wikipedia](http://en.wikipedia.org/wiki/HyperCard) and [Web Site???](http://hypercard.org/)

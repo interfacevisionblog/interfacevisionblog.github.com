@@ -321,14 +321,6 @@ More of a post on different ways to learn programming.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_learnable_01.png"><img></p>
 
-{#light-table}
-### Light Table
-[Direct Link](#light-table), [Image Source](https://plus.google.com/+JJoeDouglas/posts), [Wikipedia](http://en.wikipedia.org/wiki/Light_table_%28software%29) and [Web Site](http://www.lighttable.com/)
-
-Chris Granger's development environment (Note: People have felt that this does not belong here. However, I feel the immediate visual feedback provided within Light Table warrants it being listed here).
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_lighttable_01.jpg"><img></p>
-
 {#lily}
 ### Lily
 [Direct Link](#lily), [Image Source](http://blog.lilyapp.org/lily/demo/), [Wikipedia](http://en.wikipedia.org/wiki/Lily_%28software%29) and [Web Site](http://blog.lilyapp.org/lily/demo/)

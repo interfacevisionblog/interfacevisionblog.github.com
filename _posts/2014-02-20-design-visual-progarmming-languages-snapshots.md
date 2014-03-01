@@ -242,6 +242,12 @@ Note: see also [LiveCode](#livecode)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hypercard_01.gif"><img></p>
 
+{#softimageice}
+### ICE (Interactive Creative Environment)
+[Direct Link](#softimageice), [Image Source](http://www.renderosity.com/autodesk-integrates-face-robot-into-softimage-2010-cms-14693), [Wikipedia](http://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment) and [Web Site](http://www.autodesk.com/products/autodesk-softimage/features/ice-and-dynamic-simulation/gallery-view)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_softimageice_01.jpg"><img></p>
+
 {#IFTTT}
 ### IFTTT
 [Direct Link](#IFTTT), [Image Source](https://ifttt.com/recipes), [Wikipedia](http://en.wikipedia.org/wiki/Ifttt) and [Web Site](https://ifttt.com/wtf)
@@ -593,12 +599,6 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_03.png"><img></p>
 
 
-{#softimageice}
-### ICE (Interactive Creative Environment)
-[Direct Link](#softimageice), [Image Source](http://www.renderosity.com/autodesk-integrates-face-robot-into-softimage-2010-cms-14693), [Wikipedia](http://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment) and [Web Site](http://www.autodesk.com/products/autodesk-softimage/features/ice-and-dynamic-simulation/gallery-view)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_softimageice_01.jpg"><img></p>
-
 {#pseint}
 ### PSeint
 [Direct Link](#pseint), Image Provided By Email and [Web Site](http://pseint.sourceforge.net/)
@@ -623,6 +623,16 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 [Direct Link](#textit), [Image Source](https://textit.in/) and [Web Site](https://textit.in/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_textit_01.png"><img></p>
+
+
+{#thyrd}
+### Thyrd
+[Direct Link](#thyrd), [Image Source](http://thyrd.org/thyrd/screencast.php?v=04) and [Web Site](http://thyrd.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_thyrd_01.png"><img></p>
+
+
+
 
 {#touch-develop}
 ### Touch Develop

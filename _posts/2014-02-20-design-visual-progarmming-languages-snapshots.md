@@ -92,8 +92,6 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appware_01.png"><img></p>
 
-
-
 {#app-inventor-for-android}
 ### App Inventor For Android
 [Direct Link](#app-inventor-for-android), [Image Source](http://beta.appinventor.mit.edu/learn/tutorials/whereismycar/whereismycar.html), [Wikipedia](http://en.wikipedia.org/wiki/App_Inventor_for_Android) and [Web Site](http://appinventor.mit.edu/explore/)
@@ -111,6 +109,13 @@ First "iconic" programing ~ 1968
 [Direct Link](#audulus), [Image Source](http://www.musicappblog.com/audulus-review/) and [Web Site](http://www.musicappblog.com/audulus-review/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_audulus_01.jpg"><img></p>
+
+{#automagic}
+### Automagic
+[Direct Link](#automagic), [Image Source](https://play.google.com/store/apps/details?id=ch.gridvision.ppam.androidautomagic&hl=en) and [Web Site](http://automagic4android.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_automagic_01.png"><img></p>
+
 
 {#automator}
 ### Automator

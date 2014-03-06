@@ -276,6 +276,12 @@ Note: see also [LiveCode](#livecode)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_IntentionalTech_01.png"><img></p>
 
+{#java-studio}
+### Java Studio
+[Direct Link](#java-studio), [Image Source](http://oldweb.cecm.sfu.ca/~tstanway/tutorial.html), [Wikipedia](http://en.wikipedia.org/wiki/Sun_Java_Studio_Creator) and [Web Site ???](http://www.oracle.com/us/sun/index.html)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_javastudio_01.gif"><img></p>
+
 {#jeskola-buzz}
 ### Jeskola Buzz
 [Direct Link](#jeskola-buzz), [Image Source](http://blog.livedoor.jp/acid808/archives/cat_693944.html), [Wikipedia](http://en.wikipedia.org/wiki/Jeskola_Buzz) and [Web Site](http://www.jeskola.net/buzz/)

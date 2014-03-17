@@ -545,8 +545,6 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pypes_01.jpg"><img></p>
 
-
-
 {#programming-without-coding-technology}
 ### Programming Without Coding Technology
 [Direct Link](#programming-without-coding-technology), [Image Source](http://sourceforge.net/projects/doublesvsoop/?source=recommended) and [Web Site](http://doublesvsoop.sourceforge.net/)

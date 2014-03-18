@@ -70,7 +70,7 @@ For math and music, people are using different ways to communicate information b
 
 To argue that one of these approaches could be used universally would be difficult. How would maths compactness hold up as sheet music?
 
-Perhaps, then, we should reconsider the argument that textual languages are **the way** to program because they are so compact. Perhaps there are situations where other representation states are much more effective at helping programmers build mental models.
+Perhaps, then, we should reconsider the argument that textualxtual languages are **the way** to program because they are so compact. Perhaps there are situations where other representations are much more effective at helping programmers build mental models.
 
 Perhaps, like sheet music, textual languages are so prevalent because millions of people hours have been spent learning and using textual languages to program computing devices?
 
@@ -131,11 +131,11 @@ We are able to build upon our users particular domain experiences as opposed to 
 
 ## Conclusion
 
-One of the pain points of learning how to program is learning how to form mental models of problems using textual languages. There is no single mental model for programming (something VPLs have also been guilty of trying to create a single representational model).
+One of the pain points of learning how to program is learning how to form mental models of problems using textual languages. There is no single mental model for programming (something VPLs have also been guilty of by trying to create single representational models).
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/mental_model_babby_01.png"><img></p>
 
-Providing an environment that allows people to program a computer within their field of expertise opens up computers to more people and is just one more step towards the democratization of programming.
+Providing an environment that allows people to program a computer within their field of expertise opens up computers to more people and is one more step towards the democratization of programming.
 
 The next pain point to melt away is the technological aspects of creating a VPL for VPLs. The solution is almost as old as computers themselves: [messages](http://en.wikipedia.org/wiki/Message_passing).
 

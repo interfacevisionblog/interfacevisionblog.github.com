@@ -172,7 +172,7 @@ We could use the same composed part to get the result as an integer.
 
 #### Composing Parts Visually
 
-We can visually represent our add configuration using a diagram.
+We can visually represent our add configuration using a diagram (NOTE: We've come to the conclusion that the best way to represent **Add** visually is to stick with mathematical equations. The post "[there is no single mental model for programming]({% post_url 2014-03-18-vpls-and-mental-models %})" goes into detail on why we've made this decision).
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/technology-system-add-internal-example.png"><img></p>
 ###### Figure-1.1: An example of adding two numbers internal to a part.

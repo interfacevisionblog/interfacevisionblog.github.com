@@ -66,11 +66,11 @@ So, if I am an experienced mathematician programming mathematical equations into
 
 #### Mental Models and Textual Languages
 
-For math and music, people are using different ways to communicate information between their piers. Not only is the representation different, but the understanding built around the mental models is also different.
+For math and music, people are using different ways to communicate information between their peers. Not only is the representation different, but the understanding built around the mental models is also different.
 
 To argue that one of these approaches could be used universally would be difficult. How would maths compactness hold up as sheet music?
 
-Perhaps, then, we should reconsider the argument that textualxtual languages are **the way** to program because they are so compact. Perhaps there are situations where other representations are much more effective at helping programmers build mental models.
+Perhaps, then, we should reconsider the argument that textual languages are **the way** to program because they are so compact. Perhaps there are situations where other representations are much more effective at helping programmers build mental models.
 
 Perhaps, like sheet music, textual languages are so prevalent because millions of people hours have been spent learning and using textual languages to program computing devices?
 

@@ -723,6 +723,11 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
 
+{#videolangpi}
+### Video Processing Language for the Raspberry Pi
+[Direct Link](#videolangpi), [Image Source](https://raw.githubusercontent.com/CalumJEadie/video-processing-language-for-the-raspberry-pi/master/screenshots/walkthrough-2.png) and [Web Site](https://github.com/CalumJEadie/video-processing-language-for-the-raspberry-pi)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_videolangpi.png"><img></p>
 
 
 {#visual-jforex}

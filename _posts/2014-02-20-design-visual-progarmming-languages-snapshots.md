@@ -650,6 +650,14 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sqlintegration_01.png"><img></p>
 
+
+{#streamtools}
+### Streamtools
+[Direct Link](#streamtools), [Image Source](https://source.opennews.org/en-US/articles/introducing-streamtools/) and [Web Site](https://source.opennews.org/en-US/articles/introducing-streamtools/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_streamtools_01.png"><img></p>
+
+
 {#stroycode}
 ### StroyCode
 [Direct Link](#stroycode), [Image Source](http://softconstructors.com/en/applications/stroycode/screenshots.html) and [Web Site](http://softconstructors.com/en/applications/stroycode/)

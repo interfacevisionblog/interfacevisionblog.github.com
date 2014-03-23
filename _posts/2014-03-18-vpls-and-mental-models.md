@@ -8,6 +8,20 @@ author: Eric Hosick
 author_twitter: erichosick
 ---
 
+## Forward
+
+Let's use [biological classification](http://en.wikipedia.org/wiki/Biological_classification) as our taxonomy.
+
+The way mental models are formed between the three domains of literature, music and art are **very different**. Similar then is textual programming languages and visual programing languages: both different domains.
+
+For each domain, there are different ways to form mental models. For example, within the kingdom of textual languages we have functional, declarative, and object oriented. These also greatly differ in how we understand and form mental models of the programs being created.
+
+This blog is within the context of mental models between different domains. Not different kingdoms.
+
+If music and art were considered "fringe" and we wanted to talk about mental models at the domain level we could say:
+
+> Literature is textual causing people to lean towards a single approach to forming [mental models](http://en.wikipedia.org/wiki/Mental_model) within the arts.
+
 ## Introduction
 
 A majority of programmers will make the point that textual languages are **the only** way to program a computer: noting that textual languages are remarkable in their compactness. 

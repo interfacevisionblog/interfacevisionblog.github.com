@@ -289,7 +289,7 @@ Note: see also [LiveCode](#livecode)
 ### InfoSphere Streams
 [Direct Link](#infosphere-streams), [Image Source]( http://4.bp.blogspot.com/-X4x14ZoSUn8/Uyl9jPkugqI/AAAAAAAABjU/KqE1mrGr3Ng/s1600/image008.jpg) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_InfoSphereStreams.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams.jpg"><img></p>
 
 {#intentional-technology}
 ### Intentional Technology

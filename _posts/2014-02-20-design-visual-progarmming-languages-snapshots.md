@@ -291,6 +291,8 @@ Note: see also [LiveCode](#livecode)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams.jpg"><img></p>
 
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams_2.png"><img></p>
+
 {#intentional-technology}
 ### Intentional Technology
 [Direct Link](#intentional-technology), [Image Source](http://www.intentsoft.com/intentional-technology/) and [Web Site](http://www.intentsoft.com/intentional-technology/)

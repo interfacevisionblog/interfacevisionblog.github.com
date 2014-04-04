@@ -287,7 +287,7 @@ Note: see also [LiveCode](#livecode)
 
 {#infosphere-streams}
 ### InfoSphere Streams
-[Direct Link](#infosphere-streams), [Image Source]( http://4.bp.blogspot.com/-X4x14ZoSUn8/Uyl9jPkugqI/AAAAAAAABjU/KqE1mrGr3Ng/s1600/image008.jpg), [Image Source 2](http://delivery.acm.org/10.1145/1660000/1653248/10571.html?ip=167.220.224.225&id=1653248&acc=ACTIVE%20SERVICE&key=9625D833D637755D%2E9625D833D637755D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=430441603&CFTOKEN=11833917&__acm__=1396513793_8bb8926b773b70f9c1f679a9bb814919) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
+[Direct Link](#infosphere-streams), [Image Source]( http://biblogg.no/wp-content/uploads/2011/10/IBM-Big-data-2.png), [Image Source 2](http://delivery.acm.org/10.1145/1660000/1653248/10571.html?ip=167.220.225.225&id=1653248&acc=ACTIVE%20SERVICE&key=9625D833D637755D%2E9625D833D637755D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=311984917&CFTOKEN=82303367&__acm__=1396580256_50f86f3ddd7cfd1ce401825d49c95b7c) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams.jpg"><img></p>
 

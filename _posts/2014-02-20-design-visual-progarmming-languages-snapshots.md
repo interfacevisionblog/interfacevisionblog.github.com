@@ -287,11 +287,9 @@ Note: see also [LiveCode](#livecode)
 
 {#infosphere-streams}
 ### InfoSphere Streams
-[Direct Link](#infosphere-streams), [Image Source]( http://biblogg.no/wp-content/uploads/2011/10/IBM-Big-data-2.png), [Image Source 2](http://delivery.acm.org/10.1145/1660000/1653248/10571.html?ip=167.220.225.225&id=1653248&acc=ACTIVE%20SERVICE&key=9625D833D637755D%2E9625D833D637755D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=311984917&CFTOKEN=82303367&__acm__=1396580256_50f86f3ddd7cfd1ce401825d49c95b7c) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
+[Direct Link](#infosphere-streams), [Image Source]( http://biblogg.no/wp-content/uploads/2011/10/IBM-Big-data-2.png) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams.jpg"><img></p>
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams_2.png"><img></p>
 
 {#intentional-technology}
 ### Intentional Technology

@@ -100,7 +100,7 @@ First "iconic" programing ~ 1968
 ### AppWare
 [Direct Link](#appware), [Image Source](http://www.prichystal.cz/Archiv_c/Computer/Appware/appware.htm), [Wikipedia](http://en.wikipedia.org/wiki/AppWare) and [Web Site](http://appacitive.com/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appware_01.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_appware_01.png"><img></p>
 
 {#app-inventor-for-android}
 ### App Inventor For Android
@@ -253,14 +253,6 @@ First "iconic" programing ~ 1968
 [Direct Link](#godot-engine), [Image Source](http://www.godotengine.org/wp/wp-content/uploads/2014/01/editor2.jpg) and [Web Site](http://www.godotengine.org/wp/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_godot_01.jpg"><img></p>
-
-{#google-app-inventor}
-### Google App Inventor
-[Direct Link](#google-app-inventor), [Image Source](http://www.itwriting.com/blog/wp-content/uploads/2010/07/image6.png) and [Web Site](http://beta.appinventor.mit.edu/about/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/ example_visual_language_AppInventor.png "><img></p>
-<p class="pagination-centered">
-<iframe width="746" height="420" src=" https://www.youtube.com/watch?feature=player_embedded&v=8ADwPLSFeY8" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-</p>
 
 {#google-web-designer}
 ### Google Web Designer
@@ -688,7 +680,7 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 {#synopsis}
 ### Synopsis
 [Direct Link](#synopsis), [Image Source](http://www.codemorphis.com/) and [Web Site](http://www.codemorphis.com/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/ example_visual_language_Synopsis.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Synopsis.jpg"><img></p>
 
 {#sql-server-integration-services}
 ### SQL Server Integration Services
@@ -781,9 +773,9 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
 
-{#v+}
+{#vplus}
 ### V+
-[Direct Link](#v+), [Image Source](http://www.simphonics.com/products/software/vplus/) and [Web Site](http://www.simphonics.com/products/software/vplus/)
+[Direct Link](#vplus), [Image Source](http://www.simphonics.com/products/software/vplus/) and [Web Site](http://www.simphonics.com/products/software/vplus/)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Vplus.jpg"><img></p>
 
 {#videolangpi}

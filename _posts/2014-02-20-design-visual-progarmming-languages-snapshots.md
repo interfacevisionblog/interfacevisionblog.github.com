@@ -421,9 +421,9 @@ Looking for an image.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_max_01.jpg"><img></p>
 
-{#microsoft-visual-programming-language}
+{#mvpl}
 ### Microsoft Visual Programming Language MVPL
-[Direct Link](#microsoft-visual-programming-language), [Image Source](http://msdn.microsoft.com/en-us/library/bb483088.aspx) and [Web Site]( http://msdn.microsoft.com/en-us/library/bb483088.aspx)
+[Direct Link](#mvpl), [Image Source](http://msdn.microsoft.com/en-us/library/bb483088.aspx) and [Web Site]( http://msdn.microsoft.com/en-us/library/bb483088.aspx)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Microsoft-Visual-Programming-Language.png"><img></p>
 
 {#minecraft}

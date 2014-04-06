@@ -60,6 +60,11 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_aardappel_01.gif"><img></p>
 
+{#adl}
+### ADL
+[Direct Link](#adl), [Image Source](http://tradetalk.tradingtechnologies.com/2013/05/university-program-university-of-virginia.html) and [Web Site](https://www.tradingtechnologies.com/products/trading-analytics/xtrader/adl/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_adl.jpg"><img></p>
+<iframe src="//player.vimeo.com/video/86924946" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 {#agentSheets}
 ### AgentSheets and AgentCubes
@@ -78,6 +83,11 @@ First "iconic" programing ~ 1968
 [Direct Link](#alice), [Image Source](http://www.alice.org/index.php), [Wikipedia](http://en.wikipedia.org/wiki/Alice_%28software%29) and [Web Site](http://en.wikipedia.org/wiki/File:Alice-2-screenshot.jpg)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_alice_01.jpg"><img></p>
+
+{#amici}
+### Amici
+[Direct Link](#amici), [Image Source](http://dimeb.informatik.uni-bremen.de/eduwear/about/) and [Web Site](http://dimeb.informatik.uni-bremen.de/eduwear/about/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Amici.png"><img></p>
 
 {#appacitive}
 ### Appacitive
@@ -103,6 +113,11 @@ First "iconic" programing ~ 1968
 [Direct Link](#arcgis-model-builder), [Image Source](http://www.rockware.com/product/featuresLobby.php?id=193&category=615) and [Web Site](http://resources.arcgis.com/en/help/main/10.1/index.html#//002w00000001000000)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_arcgis_01.gif"><img></p>
+
+{#andescotia}
+[Commercial Use](#andescotia) via [Andescotia](http://www.andescotia.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_prograph_andescotia_01.png"><img></p>
 
 {#audulus}
 ### Audulus
@@ -161,6 +176,11 @@ First "iconic" programing ~ 1968
 [Flow-based programming](http://en.wikipedia.org/wiki/Flow-based_programming) implemented visually by the creator of flow-based programming: [John Paul Morrison](http://en.wikipedia.org/wiki/John_Paul_Morrison).
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drawfbp_01.jpg"><img></p>
+
+{#dynamo}
+### Dynamo
+[Direct Link](#dynamo), [Image Source](http://dynamobim.org/dynamo-0-6-3-release-and-0-7-0-alpha/) and [Web Site](http://autodeskvasari.com/dynamo)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_dynamo.png"><img></p>
 
 {#engijs}
 ### Engi JS
@@ -233,6 +253,14 @@ First "iconic" programing ~ 1968
 [Direct Link](#godot-engine), [Image Source](http://www.godotengine.org/wp/wp-content/uploads/2014/01/editor2.jpg) and [Web Site](http://www.godotengine.org/wp/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_godot_01.jpg"><img></p>
+
+{#google-app-inventor}
+### Google App Inventor
+[Direct Link](#google-app-inventor), [Image Source](http://www.itwriting.com/blog/wp-content/uploads/2010/07/image6.png) and [Web Site](http://beta.appinventor.mit.edu/about/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/ example_visual_language_AppInventor.png "><img></p>
+<p class="pagination-centered">
+<iframe width="746" height="420" src=" https://www.youtube.com/watch?feature=player_embedded&v=8ADwPLSFeY8" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#google-web-designer}
 ### Google Web Designer
@@ -401,6 +429,11 @@ Looking for an image.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_max_01.jpg"><img></p>
 
+{#microsoft-visual-programming-language}
+### Microsoft Visual Programming Language MVPL
+[Direct Link](#microsoft-visual-programming-language), [Image Source](http://msdn.microsoft.com/en-us/library/bb483088.aspx) and [Web Site]( http://msdn.microsoft.com/en-us/library/bb483088.aspx)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Microsoft-Visual-Programming-Language.png"><img></p>
+
 {#minecraft}
 ### Minecraft
 [Direct Link](#minecraft), [Image Source](http://www.youtube.com/watch?v=frcr9XYeTW4), [Wikipedia](http://en.wikipedia.org/wiki/Minecraft) and [Web Site](https://minecraft.net/)
@@ -427,6 +460,11 @@ This has a really cool looking interface.
 <p class="pagination-centered">
 <iframe width="746" height="420" src="http://www.youtube.com/embed/yuR1e1PjU8Y?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
+
+{#modkit-arduino-visual-programming}
+### Modkit Arduino Visual Programming
+[Direct Link](#modkit-arduino-visual-programming), [Image Source](http://dangerousprototypes.com/forum/viewtopic.php?f=34&t=1072&sid=3da3289fbd14b423672fafc56c8f8c86) and [Web Site](http://www.modkit.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_modkit.png"><img></p>
 
 {#morphic}
 ### Morphic
@@ -502,6 +540,10 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_mindplus_01.gif"><img></p>
 
+{#openalea-visualea}
+### OpenAlea Visualea
+[Direct Link](#openalea-visualea), [Image Source](http://openalea.gforge.inria.fr/doc/openalea/visualea/doc/_build/html/contents.html) and [Web Site](http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/index.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_OpenAleaVisualea.png"><img></p>
 
 {#open-modelica}
 ### Open Modelica
@@ -563,10 +605,11 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_prograph_01.png"><img></p>
 
-{#andescotia}
-[Commercial Use](#andescotia) via [Andescotia](http://www.andescotia.com/)
+{#pseint}
+### PSeint
+[Direct Link](#pseint), Image Provided By Email and [Web Site](http://pseint.sourceforge.net/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_prograph_andescotia_01.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pseint_01.jpg"><img></p>
 
 {#pure-data}
 ### Pure Data
@@ -642,12 +685,10 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_02.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_03.png"><img></p>
 
-
-{#pseint}
-### PSeint
-[Direct Link](#pseint), Image Provided By Email and [Web Site](http://pseint.sourceforge.net/)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pseint_01.jpg"><img></p>
+{#synopsis}
+### Synopsis
+[Direct Link](#synopsis), [Image Source](http://www.codemorphis.com/) and [Web Site](http://www.codemorphis.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/ example_visual_language_Synopsis.jpg"><img></p>
 
 {#sql-server-integration-services}
 ### SQL Server Integration Services
@@ -670,6 +711,11 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_stroycode_01.png"><img></p>
 
+{#stylus-studio}
+### Stylus Studio
+[Direct Link](#stylus-studio), [Image Source](http://www.stylusstudio.com/xml_brochure.html) and [Web Site](http://www.stylusstudio.com/xml_brochure.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_StylusStudio.jpg"><img></p>
+
 {#textit}
 ### TextIt
 [Direct Link](#textit), [Image Source](https://textit.in/) and [Web Site](https://textit.in/)
@@ -682,8 +728,6 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 [Direct Link](#thyrd), [Image Source](http://thyrd.org/thyrd/screencast.php?v=04) and [Web Site](http://thyrd.org/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_thyrd_01.png"><img></p>
-
-
 
 
 {#touch-develop}
@@ -736,6 +780,11 @@ From Microsoft research.
 [Direct Link](#udk), [Image Source](http://www.youtube.com/watch?v=0OR63rDN5p8) and [Web Site](http://www.unrealengine.com/en/udk/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
+
+{#v+}
+### V+
+[Direct Link](#v+), [Image Source](http://www.simphonics.com/products/software/vplus/) and [Web Site](http://www.simphonics.com/products/software/vplus/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Vplus.jpg"><img></p>
 
 {#videolangpi}
 ### Video Processing Language for the Raspberry Pi

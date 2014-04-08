@@ -63,8 +63,8 @@ First "iconic" programing ~ 1968
 {#adl}
 ### ADL
 [Direct Link](#adl), [Image Source](http://tradetalk.tradingtechnologies.com/2013/05/university-program-university-of-virginia.html) and [Web Site](https://www.tradingtechnologies.com/products/trading-analytics/xtrader/adl/)
+
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_adl.jpg"><img></p>
-<iframe src="//player.vimeo.com/video/86924946" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 {#agentSheets}
 ### AgentSheets and AgentCubes
@@ -87,6 +87,7 @@ First "iconic" programing ~ 1968
 {#amici}
 ### Amici
 [Direct Link](#amici), [Image Source](http://dimeb.informatik.uni-bremen.de/eduwear/about/) and [Web Site](http://dimeb.informatik.uni-bremen.de/eduwear/about/)
+
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Amici.png"><img></p>
 
 {#appacitive}

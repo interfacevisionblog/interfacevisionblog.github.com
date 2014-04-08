@@ -776,7 +776,7 @@ From Microsoft research.
 
 {#vplus}
 ### V+
-[Direct Link](#vplus), [Image Source](http://www.simphonics.com/products/software/vplus/) and [Web Site](http://www.simphonics.com/products/software/vplus/)
+[Direct Link](#vplus), [Image Source](http://southwestjones.com/wp-content/uploads/2013/05/visualLangSamp.jpg) and [Web Site](http://www.simphonics.com/products/software/vplus/)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Vplus.jpg"><img></p>
 
 {#videolangpi}

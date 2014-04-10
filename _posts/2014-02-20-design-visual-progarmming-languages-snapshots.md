@@ -81,7 +81,7 @@ First "iconic" programing ~ 1968
 ### Agilent VEE
 [Direct Link](#agilent-vee), [Image Source](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391) and [Web Site](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_agilent-vee.jpg "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_agilent-vee.jpg"><img></p>
 
 {#alice}
 ### Alice

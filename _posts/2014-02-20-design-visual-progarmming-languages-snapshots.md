@@ -258,18 +258,15 @@ First "iconic" programing ~ 1968
 [Direct Link](#flowlab), [Image Source](http://indiestatik.com/2013/01/23/flowlab-takes-visual-game-development-to-the-cloud-free-beta-released/) and [Web Site](http://flowlab.io/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flowlab_01.jpg"><img></p>
+<p class="pagination-centered">
+<iframe width="746" height="420" src="//www.youtube.com/embed/MP50rOae6XQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#foundry-modo}
 ### Foundry Modo
 [Direct Link](#foundry-modo), [Image Source](http://www.fxguide.com/featured/katana-in-production-changing-the-structure-of-the-workflow/) and [Web Site](http://www.thefoundry.co.uk/products/modo/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_FoundryModo.jpg"><img></p>
-
-{#generative-components}
-### Generative Components
-[Direct Link](#generative-components), [Image Source](http://communities.bentley.com/cfs-file.ashx/__key/telligent-evolution-components-attachments/13-6774-00-00-00-26-95-51/2014_2D00_03_2D00_05_5F00_ScreenCaptureGraph.png), [Wikipedia](http://en.wikipedia.org/wiki/GenerativeComponents) and [Web Site](http://www.bentley.com/en-US/Promo/Generative+Components/default.htm)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_generativecomponents_01.png"><img></p>
 
 {#flexmonkey}
 ### ReDiLab:Node
@@ -286,15 +283,6 @@ First "iconic" programing ~ 1968
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flohub_01.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_01.jpg"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_02.jpg"><img></p>
-
-{#flowlab}
-### Flowlab
-[Direct Link](#flowlab), [Image Source](http://indiestatik.com/2013/01/23/flowlab-takes-visual-game-development-to-the-cloud-free-beta-released/) and [Web Site](http://flowlab.io/)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_flowlab.jpg"><img></p>
-<p class="pagination-centered">
-<iframe width="746" height="420" src="//www.youtube.com/embed/MP50rOae6XQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-</p>
 
 {#flowstone}
 ### FlowStone

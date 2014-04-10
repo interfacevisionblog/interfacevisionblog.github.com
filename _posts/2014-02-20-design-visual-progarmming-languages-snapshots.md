@@ -77,6 +77,11 @@ First "iconic" programing ~ 1968
 <iframe width="746" height="420" src="http://www.youtube.com/embed/unDgy6jKpYY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#agilent-vee}
+### Agilent VEE
+[Direct Link](#agilent-vee), [Image Source](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391) and [Web Site](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_agilent-vee.jpg "><img></p>
 
 {#alice}
 ### Alice
@@ -118,16 +123,22 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_inventor_01.png"><img></p>
 
-{#arcgis-model-builder}
-### ArcGIS Model Builder
-[Direct Link](#arcgis-model-builder), [Image Source](http://www.rockware.com/product/featuresLobby.php?id=193&category=615) and [Web Site](http://resources.arcgis.com/en/help/main/10.1/index.html#//002w00000001000000)
+{#analog-box}
+### Analog Box
+[Direct Link](#analog-box), [Image Source](https://code.google.com/p/analog-box/) and [Web Site](https://code.google.com/p/analog-box/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_arcgis_01.gif"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_analogbox.jpg "><img></p>
 
 {#andescotia}
 [Commercial Use](#andescotia) via [Andescotia](http://www.andescotia.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_prograph_andescotia_01.png"><img></p>
+
+{#arcgis-model-builder}
+### ArcGIS Model Builder
+[Direct Link](#arcgis-model-builder), [Image Source](http://www.rockware.com/product/featuresLobby.php?id=193&category=615) and [Web Site](http://resources.arcgis.com/en/help/main/10.1/index.html#//002w00000001000000)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_app_arcgis_01.gif"><img></p>
 
 {#audulus}
 ### Audulus
@@ -197,6 +208,12 @@ First "iconic" programing ~ 1968
 [Flow-based programming](http://en.wikipedia.org/wiki/Flow-based_programming) implemented visually by the creator of flow-based programming: [John Paul Morrison](http://en.wikipedia.org/wiki/John_Paul_Morrison).
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drawfbp_01.jpg"><img></p>
+
+{#dream-maker}
+### Dream Maker
+[Direct Link](#dream-maker), [Image Source](http://www.byond.com/forum/?post=120715) and [Web Site](http://www.byond.com/docs/guide/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_dreammaker.jpg"><img></p>
 
 {#dynamo}
 ### Dynamo
@@ -270,6 +287,15 @@ First "iconic" programing ~ 1968
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_01.jpg"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_noflo_02.jpg"><img></p>
 
+{#flowlab}
+### Flowlab
+[Direct Link](#flowlab), [Image Source](http://indiestatik.com/2013/01/23/flowlab-takes-visual-game-development-to-the-cloud-free-beta-released/) and [Web Site](http://flowlab.io/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_flowlab.jpg"><img></p>
+<p class="pagination-centered">
+<iframe width="746" height="420" src="//www.youtube.com/embed/MP50rOae6XQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
+
 {#flowstone}
 ### FlowStone
 [Direct Link](#flowstone), [Image Source](http://en.wikipedia.org/wiki/File:FlowStone_Large_Screenshot.png), [Youtube](http://www.youtube.com/watch?v=yEIao2tm3WE) and [Web Site](http://www.dsprobotics.com/flowstone.html)
@@ -279,6 +305,12 @@ First "iconic" programing ~ 1968
 <p class="pagination-centered">
 <iframe width="746" height="420" src="http://www.youtube.com/embed/yEIao2tm3WE?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
+
+{#generativecomponents}
+### GenerativeComponents
+[Direct Link](#generativecomponents), [Image Source]( http://communities.bentley.com/cfs-file.ashx/__key/telligent-evolution-components-attachments/13-6774-00-00-00-26-95-51/2014_2D00_03_2D00_05_5F00_ScreenCaptureGraph.png) and [Web Site](http://www.bentley.com/en-US/Promo/Generative+Components/default.htm)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_generativecomponents.png"><img></p>
 
 {#godot-engine}
 ### GoDot Engine
@@ -383,6 +415,11 @@ Note: see also [LiveCode](#livecode)
 <iframe width="746" height="420" src="http://www.youtube.com/embed/8-FjskAHgN0?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#kyma}
+### Kyma
+[Direct Link](#kyma), [Image Source](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome) and [Web Site](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Kyma.jpg"><img></p>
+
 {#labview}
 ### LabView
 [Direct Link](#labview), [Image Source](http://www.ni.com/newsletter/51735/en/), [Wikipedia](http://en.wikipedia.org/wiki/LabVIEW) and [Web Site](http://www.ni.com/)
@@ -458,6 +495,26 @@ Looking for an image.
 [Direct Link](#max-msp-jitter), [Image Source](http://www.kx1.us/sites/spacefillingcurve_net//programming/maxmsp/) and [Web Site](http://cycling74.com/products/max/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_max_01.jpg"><img></p>
+
+{#marten}
+### Marten
+
+Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Prograph) language.
+
+[Direct Link](#marten), [Image Source](http://www.andescotia.com/examples/) and [Web Site](http://www.andescotia.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_marten_01.png"><img></p>
+
+{#metaedit-modeler}
+### MetaEdit+ Modeler
+[Direct Link](#metaedit-modeler), [Image Source](http://www.metacase.com/mep/diagram_editor.html) and [Web Site](http://www.metacase.com/mep/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_MetaEditModeler.png"><img></p>
+
+{#mindplus}
+### Mind+
+[Direct Link](#mindplus), [Image Source](http://www.mindplus.cc/wp-content/uploads/2013/09/button-led-2.gif) and [Web Site](http://www.mindplus.cc/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_mindplus_01.gif"><img></p>
 
 {#mvpl}
 ### Microsoft Visual Programming Language MVPL
@@ -553,22 +610,10 @@ Legos!!!
 <iframe width="746" height="420" src="http://www.youtube.com/embed/SpAXlycjrRo?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
-{#marten}
-### Marten
-
-Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Prograph) language.
-
-[Direct Link](#marten), [Image Source](http://www.andescotia.com/examples/) and [Web Site](http://www.andescotia.com/)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_marten_01.png"><img></p>
-
-
-{#mindplus}
-### Mind+
-
-[Direct Link](#mindplus), [Image Source](http://www.mindplus.cc/wp-content/uploads/2013/09/button-led-2.gif) and [Web Site](http://www.mindplus.cc/)
-
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_mindplus_01.gif"><img></p>
+{#obeo-designer}
+### Obeo Designer
+[Direct Link](#obeo-designer), [Image Source](http://www.obeodesigner.com/resources/gallery) and [Web Site](http://www.obeodesigner.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_obeo.png "><img></p>
 
 {#openalea-visualea}
 ### OpenAlea Visualea
@@ -841,6 +886,10 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_videolangpi.png"><img></p>
 
+{#vistrails}
+### VisTrails
+[Direct Link](#vistrails), [Image Source](http://twiki.ipaw.info/bin/view/Challenge/VisTrails) and [Web Site](http://twiki.ipaw.info/bin/view/Challenge/VisTrails)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_VisTrails.png "><img></p>
 
 {#visual-jforex}
 ### Visual JForex
@@ -878,6 +927,12 @@ From Microsoft research.
 [Direct Link](#windows-workflow-foundation), [Image Source](http://fryerblog.com/post/2179029238/a-windows-workflow-foundation-example), [Wikipedia](http://en.wikipedia.org/wiki/Windows_Workflow_Foundation) and [Web Site](http://msdn.microsoft.com/en-us/vstudio/jj684582.aspx)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_winworkflow_01.png"><img></p>
+
+{#world-machine}
+### World machine
+[Direct Link](#world-machine), [Image Source](http://mygaragegame.blogspot.in/2012/08/terrain-tiles.html) and [Web Site](http://www.world-machine.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_worldmachine.jpg"><img></p>
 
 {#xpresso}
 ### Xpresso

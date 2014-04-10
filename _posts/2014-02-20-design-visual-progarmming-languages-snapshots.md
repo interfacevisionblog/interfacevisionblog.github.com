@@ -96,6 +96,15 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appacitive_01.jpg"><img></p>
 
+{#apple-shake}
+### Apple Shake
+[Direct Link](#apple-shake), [Image Source](http://i1.ytimg.com/vi/RlC9PclVd7Q/maxresdefault.jpg) and [Web Site](http://www.apple.com/support/shake/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_AppleShake.jpg "><img></p>
+
+<p class="pagination-centered">
+<iframe width="746" height="420" src="//www.youtube.com/embed/RlC9PclVd7Q" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</p>
 
 {#appware}
 ### AppWare
@@ -139,6 +148,17 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_automator_01.jpg"><img></p>
 
+{#blender-sverchok-add-on}
+### Blender: Sverchok add on 
+[Direct Link](#blender-sverchok-add-on), [Image Source](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/) and [Web Site](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Sverchok-add-on-Blender.png"><img></p>
+
+{#blender-textures-nodes}
+### Blender: Textures Nodes
+[Direct Link](#blender-textures-nodes), [Image Source](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes) and [Web Site](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_BlenderNodeTexture.png"><img></p>
+
 {#blockly}
 ### Blockly
 [Direct Link](#blockly), [Image Source](http://i.imgur.com/PfJO2.png) and [Web Site](https://code.google.com/p/blockly/)
@@ -157,12 +177,12 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_copper_01.png"><img></p>
 
-{#touchdesigner}
-### TouchDesigner
-[Direct Link](#touchdesigner), [Image Source](https://www.derivative.ca/Events/2014/Week01/), [Wikipedia](http://en.wikipedia.org/wiki/Houdini_%28software%29#TouchDesigner) and [Web Site](https://www.derivative.ca/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_touchdesigner_01.jpg"><img></p>
+{#designscript}
+### Designscript
+[Direct Link](#designscript), [Image Source](http://forums.autodesk.com/t5/image/serverpage/image-id/61329iD69DA33B7DA9B96B/image-size/original?v=mpbl-1&px=-1) and [Web Site](https://beta.autodesk.com/callout/?callid=E32D5D18F0C545469AF146D49BE0B31C)
 
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_autodesk-designscript.png "><img></p>
 
 {#drakon}
 ### DRAKON
@@ -190,12 +210,18 @@ First "iconic" programing ~ 1968
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_engijs_01.png"><img></p>
 
 
-
 {#etoys}
 ### Etoys / Squeak
 [Direct Link](#etoys), [Image Source](http://en.wikipedia.org/wiki/File:Squeak-screenshot.png), [Wikipedia](http://en.wikipedia.org/wiki/Etoys_%28programming_language%29) and [Web Site](http://www.squeakland.org/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_etoysqueak_01.png"><img></p>
+
+
+{#eyeon-fusion}
+### Eyeon Fusion
+[Direct Link](#eyeon-fusion), [Image Source](https://www.fxguide.com/wp-content/uploads/2010/10/09Jun/fusion6/carpaint_shader_comp.jpg) and [Web Site](http://www.eyeonline.com/Fusion.html)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_EyeonFusion.jpg"><img></p>
 
 {#field}
 ### Field
@@ -216,6 +242,11 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_flowlab_01.jpg"><img></p>
 
+{#foundry-modo}
+### Foundry Modo
+[Direct Link](#foundry-modo), [Image Source](http://www.fxguide.com/featured/katana-in-production-changing-the-structure-of-the-workflow/) and [Web Site](http://www.thefoundry.co.uk/products/modo/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_FoundryModo.jpg"><img></p>
 
 {#generative-components}
 ### Generative Components
@@ -415,6 +446,12 @@ Someone built an An [8-bit Mechanical Adder in LittleBigPlanet](http://www.youtu
 
 Looking for an image.
 
+{#mamba-fx}
+### Mamba FX
+[Direct Link](#mamba-fx), [Image Source](http://postperspective.com/wp-content/uploads/2013/10/MAMBA-FX-Screengrab1.png) and [Web Site](http://www.mambatutorials.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_MambaFX.png "><img></p>
+
 {#max-msp-jitter}
 ### MAX/MSP Jitter
 
@@ -586,6 +623,12 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pypes_01.jpg"><img></p>
 
+{#praxis-live}
+### Praxis LIVE
+[Direct Link](#praxis-live), [Image Source](http://www.praxislive.org/features) and [Web Site](http://www.praxislive.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_praxislive.jpg"><img></p>
+
 {#programming-without-coding-technology}
 ### Programming Without Coding Technology
 [Direct Link](#programming-without-coding-technology), [Image Source](http://sourceforge.net/projects/doublesvsoop/?source=recommended) and [Web Site](http://doublesvsoop.sourceforge.net/)
@@ -678,6 +721,14 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_02.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_03.png"><img></p>
 
+
+{#substance-designer}
+### Substance Designer
+[Direct Link](#substance-designer), [Image Source](http://store.steampowered.com/app/238710/) and [Web Site]( http://store.steampowered.com/video/238710)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_SubstanceDesigner.jpg "><img></p>
+
+
 {#synopsis}
 ### Synopsis
 [Direct Link](#synopsis), [Image Source](http://www.codemorphis.com/) and [Web Site](http://www.codemorphis.com/)
@@ -722,6 +773,11 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_thyrd_01.png"><img></p>
 
+{#touchdesigner}
+### TouchDesigner
+[Direct Link](#touchdesigner), [Image Source](https://www.derivative.ca/Events/2014/Week01/), [Wikipedia](http://en.wikipedia.org/wiki/Houdini_%28software%29#TouchDesigner) and [Web Site](https://www.derivative.ca/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_touchdesigner_01.jpg"><img></p>
 
 {#touch-develop}
 ### Touch Develop
@@ -823,6 +879,11 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_winworkflow_01.png"><img></p>
 
+{#xpresso}
+### Xpresso
+[Direct Link](#xpresso), [Image Source](http://www.maxon.net/products/cinema-4d-prime/customizing.html) and [Web Site](http://www.maxon.net/products/cinema-4d-prime/customizing.html)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_xpresso.jpg"><img></p>
 
 ## Conclusion
 

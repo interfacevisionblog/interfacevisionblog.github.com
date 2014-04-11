@@ -405,7 +405,7 @@ Note: see also [LiveCode](#livecode)
 
 {#kyma}
 ### Kyma
-[Direct Link](#kyma), [Image Source](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome) and [Web Site](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome)
+[Direct Link](#kyma), [Image Source](http://www.symbolicsound.com/UpgradeCommon/Kyma%20XScreenshot%20Large.jpg) and [Web Site](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Kyma.jpg"><img></p>
 
 {#labview}
@@ -495,7 +495,7 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 
 {#metaedit-modeler}
 ### MetaEdit+ Modeler
-[Direct Link](#metaedit-modeler), [Image Source](http://www.metacase.com/mep/diagram_editor.html) and [Web Site](http://www.metacase.com/mep/)
+[Direct Link](#metaedit-modeler), [Image Source](http://www.metacase.com/images/diagrameditor2.png) and [Web Site](http://www.metacase.com/mep/)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_MetaEditModeler.png"><img></p>
 
 {#mindplus}

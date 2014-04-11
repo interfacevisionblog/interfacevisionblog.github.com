@@ -79,7 +79,7 @@ First "iconic" programing ~ 1968
 
 {#agilent-vee}
 ### Agilent VEE
-[Direct Link](#agilent-vee), [Image Source](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391) and [Web Site](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391)
+[Direct Link](#agilent-vee), [Image Source](http://cp.home.agilent.com/upload/cmc_upload/ENA_BW_Search_with_Upper_Lower_Stimulus_IMAGE1.png) and [Web Site](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_agilent-vee.jpg"><img></p>
 
@@ -161,13 +161,13 @@ First "iconic" programing ~ 1968
 
 {#blender-sverchok-add-on}
 ### Blender: Sverchok add on 
-[Direct Link](#blender-sverchok-add-on), [Image Source](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/) and [Web Site](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/)
+[Direct Link](#blender-sverchok-add-on), [Image Source](http://1.bp.blogspot.com/-WIIMCG1aCZo/UtW_-LCF4TI/AAAAAAABF7Y/Dq87oQqYPu0/s1600/Blender+%5BCBLENDER_SVERCHOKtween_005.blend%5D.png) and [Web Site](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Sverchok-add-on-Blender.png"><img></p>
 
 {#blender-textures-nodes}
 ### Blender: Textures Nodes
-[Direct Link](#blender-textures-nodes), [Image Source](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes) and [Web Site](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes)
+[Direct Link](#blender-textures-nodes), [Image Source](http://www.blenderguru.com/wp-content/uploads/2009/05/11-full-nodes-540x617.jpg) and [Web Site](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_BlenderNodeTexture.png"><img></p>
 
 {#blockly}
@@ -757,7 +757,7 @@ Legos!!!
 
 {#substance-designer}
 ### Substance Designer
-[Direct Link](#substance-designer), [Image Source](http://store.steampowered.com/app/238710/) and [Web Site]( http://store.steampowered.com/video/238710)
+[Direct Link](#substance-designer), [Image Source](http://www.psoih.com/wp-content/uploads/2013/11/20131110_EasyUV_Substance_SVG_Graph2.jpg) and [Web Site]( http://store.steampowered.com/video/238710)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_SubstanceDesigner.jpg "><img></p>
 

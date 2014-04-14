@@ -182,11 +182,23 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_bounce_01.gif"><img></p>
 
+{#cognitoy-mindrover}
+### Cognitoy's Mindrover
+[Direct Link](#cognitoy-mindrover), [Image Source](http://gamereviewgroup.com/scrImages/mindrover-the-europa-project_3_orig.jpg) and [Web Site](http://www.mindrover.com/mindrover.html)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_cognitoy-mindrover.jpg"><img></p>
+
 {#copper-thoughts}
 ### Copper Thoughts
 [Direct Link](#copper-thoughts), [Image Source](http://www.copperthoughts.com/assets/request-fsm-instance.png) and [Web Site](http://www.copperthoughts.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_copper_01.png"><img></p>
+
+{#coral}
+### Coral
+[Direct Link](#coral), [Image Source](https://code.google.com/p/coral-repo/) and [Web Site](http://www.blurrypaths.com/post/29898257065/coral-open-source-visual-programming-environment)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Coral.jpg"><img></p>
 
 
 {#designscript}
@@ -239,6 +251,12 @@ First "iconic" programing ~ 1968
 [Direct Link](#eyeon-fusion), [Image Source](https://www.fxguide.com/wp-content/uploads/2010/10/09Jun/fusion6/carpaint_shader_comp.jpg) and [Web Site](http://www.eyeonline.com/Fusion.html)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_EyeonFusion.jpg"><img></p>
+
+{#eyesweb}
+### EyesWeb
+[Direct Link](#eyesweb), [Image Source](http://3o3i.pagesperso-orange.fr/bilan/EyesWeb/EyesWebTrack.jpg) and [Web Site](http://www.audiovisualizers.com/toolshak/vjprgpix/eyesweb/eyesweb.htm)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_EyesWeb.jpg "><img></p>
 
 {#field}
 ### Field
@@ -339,6 +357,12 @@ Note: see also [LiveCode](#livecode)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_hypercard_01.gif"><img></p>
 
+{#hypergraph}
+### Hypergraph
+[Direct Link](#hypergraph), [Image Source](http://www.djx.com.au/blog/wp-content/images/layeringShadersInMR/layersHyperGraph.jpg) and [Web Site](http://download.autodesk.com/global/docs/maya2014/en_us/index.html?url=files/Basics_Windows_and_Editors_Hypergraph_overview.htm,topicNumber=d30e87351)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_maya-hypergraph.jpg"><img></p>
+
 {#softimageice}
 ### ICE (Interactive Creative Environment)
 [Direct Link](#softimageice), [Image Source](http://www.renderosity.com/autodesk-integrates-face-robot-into-softimage-2010-cms-14693), [Wikipedia](http://en.wikipedia.org/wiki/Autodesk_Softimage#ICE_Interactive_Creative_Environment) and [Web Site](http://www.autodesk.com/products/autodesk-softimage/features/ice-and-dynamic-simulation/gallery-view)
@@ -368,6 +392,12 @@ Note: see also [LiveCode](#livecode)
 [Direct Link](#intentional-technology), [Image Source](http://www.intentsoft.com/intentional-technology/) and [Web Site](http://www.intentsoft.com/intentional-technology/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_IntentionalTech_01.png"><img></p>
+
+{#isadora}
+### Isadora
+[Direct Link](#isadora), [Image Source](http://lawrenceharvey.files.wordpress.com/2012/05/isadora-audio-trigger-from-stream-patch.png) and [Web Site](http://remotepresence.org/?p=534)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_isadora.png "><img></p>
 
 {#java-studio}
 ### Java Studio 1.0
@@ -507,7 +537,14 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 {#mvpl}
 ### Microsoft Visual Programming Language MVPL
 [Direct Link](#mvpl), [Image Source](http://msdn.microsoft.com/en-us/library/bb483088.aspx) and [Web Site]( http://msdn.microsoft.com/en-us/library/bb483088.aspx)
+
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Microsoft-Visual-Programming-Language.png"><img></p>
+
+{#mindspider}
+### MindSpider
+[Direct Link](#mindspider), [Image Source](http://www.mistal-research.com/Images/MindSpider/MindSpiderScreenshot.jpg) and [Web Site](http://www.mistal-research.com/mindSpider.php)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_MindSpider.jpg"><img></p>
 
 {#minecraft}
 ### Minecraft
@@ -586,6 +623,11 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nuke_01.png"><img></p>
 
+{#num3sis}
+### Num3sis Composer
+[Direct Link](#num3sis), [Image Source](http://num3sis.inria.fr/blog/wp-content/uploads/actor_fields.png) and [Web Site](http://num3sis.inria.fr/blog/category/composer/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/ example_visual_language_num3sisComposer.png"><img></p>
+
 {#NXT-G}
 ### NXT-G
 [Direct Link](#NXT-G), [Image Source](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=2051945), [Youtube](http://www.youtube.com/watch?v=SpAXlycjrRo) [Wikipedia](http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT#NXT-G) and [Web Site](http://www.legoengineering.com/program/nxt-g/)
@@ -598,15 +640,23 @@ Legos!!!
 <iframe width="746" height="420" src="http://www.youtube.com/embed/SpAXlycjrRo?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
-{#obeo-designer}
-### Obeo Designer
-[Direct Link](#obeo-designer), [Image Source](http://www.obeodesigner.com/resources/gallery) and [Web Site](http://www.obeodesigner.com/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_obeo.png "><img></p>
-
 {#openalea-visualea}
 ### OpenAlea Visualea
 [Direct Link](#openalea-visualea), [Image Source](http://openalea.gforge.inria.fr/doc/openalea/visualea/doc/_build/html/contents.html) and [Web Site](http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/index.html)
+
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_OpenAleaVisualea.png"><img></p>
+
+{#opendx}
+### OpenDX
+[Direct Link](#opendx), [Image Source](http://sven.killig.de/screenshots/OpenDX.png) and [Web Site](http://www.opendx.org/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Opendx.png"><img></p>
+
+{#openflippers}
+### OpenFlippers
+[Direct Link](#openflippers), [Image Source](http://www.openflipper.org/index.php?id=240) and [Web Site](http://www.openflipper.org/index.php?id=240)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_OpenFlippers.png"><img></p>
 
 {#open-modelica}
 ### Open Modelica
@@ -630,6 +680,10 @@ Legos!!!
 <iframe width="746" height="420" src="http://www.youtube.com/embed/MAuqNjoYuhg?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#orange}
+### Orange
+[Direct Link](#orange), [Image Source](http://orange.biolab.si/screenshots/) and [Web Site]( http://orange.biolab.si/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Orange.png"><img></p>
 
 {#origami}
 ### Origami
@@ -754,6 +808,10 @@ Legos!!!
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_02.png"><img></p>
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_snap_03.png"><img></p>
 
+{#sprog}
+### Sprog
+[Direct Link](#sprog), [Image Source](http://sprog.sourceforge.net/screenshots/images/panther_dilbert.jpg) and [Web Site](http://sprog.sourceforge.net/index.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_sprog.jpg"><img></p>
 
 {#substance-designer}
 ### Substance Designer
@@ -766,6 +824,12 @@ Legos!!!
 ### Synopsis
 [Direct Link](#synopsis), [Image Source](http://www.codemorphis.com/) and [Web Site](http://www.codemorphis.com/)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Synopsis.jpg"><img></p>
+
+{#synthedit}
+### SynthEdit
+[Direct Link](#synthedit), [Image Source](http://cmt3329m00339944.files.wordpress.com/2012/04/synthedit.jpg) and [Web Site](http://www.synthedit.com/)
+
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_synthedit.jpg "><img></p>
 
 {#sql-server-integration-services}
 ### SQL Server Integration Services

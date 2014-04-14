@@ -626,7 +626,7 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 {#num3sis}
 ### Num3sis Composer
 [Direct Link](#num3sis), [Image Source](http://num3sis.inria.fr/blog/wp-content/uploads/actor_fields.png) and [Web Site](http://num3sis.inria.fr/blog/category/composer/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/ example_visual_language_num3sisComposer.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_num3sisComposer.png"><img></p>
 
 {#NXT-G}
 ### NXT-G

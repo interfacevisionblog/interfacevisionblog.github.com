@@ -648,7 +648,7 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 {#nevo-studio}
 ### Nevo Studio
 [Direct Link](#nevo-studio), [Image Source](http://worthingtondistribution.com/blog/wp-content/uploads/2010/05/T-Stat-Widget-300x244.png) and [Web Site](http://www2.worthingtondistribution.com/blog/?p=66)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nevo-studio"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nevo-studio.png"><img></p>
 
 {#nodebox}
 ### NodeBox

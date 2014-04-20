@@ -176,6 +176,11 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_blockly_01.png"><img></p>
 
+{#bloodhound}
+### BloodHound
+[Direct Link](#bloodhound), [Image Source](http://www.sharkindicators.com/bloodhound/bloodhound-features/bloodhound-professional-features/) and [Web Site](http://www.sharkindicators.com/bloodhound/bloodhound-features/bloodhound-professional-features/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_bloodhound.png"><img></p>
+
 {#bounce}
 ### Bounce
 [Direct Link](#bounce), [Image Source](http://www.art.net/~hopkins/Don/lang/bounce/SpaceSeedCircuits.gif) and [Web Site](http://www.art.net/~hopkins/Don/lang/bounce/bounce.html)
@@ -187,6 +192,11 @@ First "iconic" programing ~ 1968
 [Direct Link](#cognitoy-mindrover), [Image Source](http://gamereviewgroup.com/scrImages/mindrover-the-europa-project_3_orig.jpg) and [Web Site](http://www.mindrover.com/mindrover.html)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_cognitoy-mindrover.jpg"><img></p>
+
+{#chipwits}
+### ChipWits
+[Direct Link](#chipwits), [Image Source](http://chipwits.com/graphics/screen7.jpg) and [Web Site](http://chipwits.com/index.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_ChipWits.jpg"><img></p>
 
 {#copper-thoughts}
 ### Copper Thoughts
@@ -200,6 +210,15 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Coral.jpg"><img></p>
 
+{#cortex}
+### Cortex
+[Direct Link](#cortex), [Image Source](http://www.edventures.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/v/i/visuallogo_testmotor.jpg) and [Web Site](http://www.edventures.com/products/by-product/the-brain/cortex-programming-software.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_PCS-Cortex.jpg"><img></p>
+
+{#cybertoolbox}
+### CyberToolbox
+[Direct Link](#cybertoolbox), [Image Source](http://www.cybergarage.org/twiki/pub/Main/CyberToolboxForWin32/clockdgm1.png) and [Web Site](http://www.cybergarage.org/twiki/bin/view/Main/CyberToolboxForWin32)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_CyberToolbox.png"><img></p>
 
 {#designscript}
 ### Designscript
@@ -226,6 +245,11 @@ First "iconic" programing ~ 1968
 [Direct Link](#dream-maker), [Image Source](http://www.byond.com/forum/?post=120715) and [Web Site](http://www.byond.com/docs/guide/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_dreammaker.jpg"><img></p>
+
+{#drupal}
+### Drupal
+[Direct Link](#drupal), [Image Source](https://drupal.org/files/images/vvd%20workspace.png) and [Web Site](https://drupal.org/project/vvd)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_drupal.png"><img></p>
 
 {#dynamo}
 ### Dynamo
@@ -375,6 +399,11 @@ Note: see also [LiveCode](#livecode)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_ifttt_01.png"><img></p>
 
+{#ilab-neuromorphic-robotics-toolkit}
+### iLab Neuromorphic Robotics Toolkit
+[Direct Link](#ilab-neuromorphic-robotics-toolkit), [Image Source](http://robosavvy.com/forum/viewtopic.php?f=1&t=8481&sid=7e4e5d536cb7d12bd3e2d51718f0300b) and [Web Site](http://robosavvy.com/forum/viewtopic.php?f=1&t=8481&sid=7e4e5d536cb7d12bd3e2d51718f0300b)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_ilab-neuromorphic-robotics-toolkit.png"><img></p>
+
 {#illumination-software-creator}
 ### Illumination Software Creator
 [Direct Link](#illumination-software-creator), [Image Source](http://lunduke.com/2010/06/16/illumination-software-creator-20-beta-2/), [Wikipedia](http://en.wikipedia.org/wiki/Illumination_Software_Creator) and [Web Site](http://lunduke.com/2010/06/16/illumination-software-creator-20-beta-2/)
@@ -416,6 +445,11 @@ Note: see also [LiveCode](#livecode)
 [Direct Link](#kimono), [Web Site](http://www.kimonolabs.com/)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_kimono_01.png"><img></p>
+
+{#klieg}
+### Klieg
+[Direct Link](#klieg), [Image Source](http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/klieg1.gif) and [Web Site](http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/index_e.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_klieg.png"><img></p>
 
 {#knime}
 ### Knime
@@ -611,6 +645,11 @@ This was discussed quite a bit on [Ycombinator](https://news.ycombinator.com/ite
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_NeatTools_01.png"><img></p>
 
+{#nevo-studio}
+### Nevo Studio
+[Direct Link](#nevo-studio), [Image Source](http://worthingtondistribution.com/blog/wp-content/uploads/2010/05/T-Stat-Widget-300x244.png) and [Web Site](http://www2.worthingtondistribution.com/blog/?p=66)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_nevo-studio"><img></p>
+
 {#nodebox}
 ### NodeBox
 [Direct Link](#nodebox), [Image Source](http://nodebox.net/node/) and [Web Site](http://nodebox.net/)
@@ -746,6 +785,10 @@ Legos!!!
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_pygmalion_01.jpg"><img></p>
 
+{#quadrigram}
+### Quadrigram
+[Direct Link](#quadrigram), [Image Source](http://blog.quadrigram.com/wp-content/uploads/2012/12/template_2.png) and [Web Site](http://www.quadrigram.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_quadrigram.png"><img></p>
 
 {#quartz-composer}
 ### Quartz Composer
@@ -757,6 +800,15 @@ Legos!!!
 <iframe width="746" height="420" src="http://www.youtube.com/embed/kTmqc_At2bY?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#rapidminer}
+### RapidMiner
+[Direct Link](#rapidminer), [Image Source](http://cbokhove.files.wordpress.com/2012/07/rm2.png) and [Web Site](http://rapidminer.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_rapidminer.png"><img></p>
+
+{#reactable}
+### Reactable
+[Direct Link](#reactable), [Image Source](https://lh4.ggpht.com/V4U1SCuI_KrSG2OD-rYpgeW7YqnTvJ36W5TYGT2z8qFEeLzxsymZ0OWw6HXroOnMcg=h900) and [Web Site](http://www.reactable.com/products/mobile/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_reactable.png"><img></p>
 
 {#reaktor}
 ### Reaktor
@@ -857,6 +909,11 @@ Legos!!!
 [Direct Link](#stylus-studio), [Image Source](http://www.stylusstudio.com/xml_brochure.html) and [Web Site](http://www.stylusstudio.com/xml_brochure.html)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_StylusStudio.jpg"><img></p>
 
+{#tersus}
+### Tersus
+[Direct Link](#tersus), [Image Source](http://www.codeproject.com/KB/Tools-IDE/timemachine/v6.jpg) and [Web Site](http://www.tersus.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_tersus.jpg"><img></p>
+
 {#textit}
 ### TextIt
 [Direct Link](#textit), [Image Source](https://textit.in/) and [Web Site](https://textit.in/)
@@ -927,6 +984,11 @@ From Microsoft research.
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_udk_01.png"><img></p>
 
+{#unix-tools}
+### Unix Tools
+[Direct Link](#unix-tools), [Image Source](http://i.stack.imgur.com/G2Xri.png) and [Web Site](http://www.dmst.aueb.gr/dds/pubs/jrnl/2001-SPANDE-VUFC/html/vufc.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Unix-Tools.png"><img></p>
+
 {#vplus}
 ### V+
 [Direct Link](#vplus), [Image Source](http://southwestjones.com/wp-content/uploads/2013/05/visualLangSamp.jpg) and [Web Site](http://www.simphonics.com/products/software/vplus/)
@@ -960,6 +1022,10 @@ From Microsoft research.
 <iframe width="746" height="420" src="http://www.youtube.com/embed/ZdWyahyNepg?vq=hd1080" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </p>
 
+{#vrl-studio}
+### VRL-Studio
+[Direct Link](#vrl-studio), [Image Source]( http://vrl-studio.mihosoft.eu/releases/help/resources/img/functionplotter01.png) and [Web Site](http://vrl-studio.mihosoft.eu/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_vrl-studio.png"><img></p>
 
 {#vuo}
 ### VUO
@@ -991,6 +1057,11 @@ From Microsoft research.
 [Direct Link](#xpresso), [Image Source](http://www.maxon.net/products/cinema-4d-prime/customizing.html) and [Web Site](http://www.maxon.net/products/cinema-4d-prime/customizing.html)
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_xpresso.jpg"><img></p>
+
+{#zaluum}
+### Zaluum
+[Direct Link](#zaluum), [Image Source](http://www.zaluum.com/img/sound-viewsound3.png) and [Web Site](http://www.zaluum.com)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_zaluum.png"><img></p>
 
 ## Conclusion
 

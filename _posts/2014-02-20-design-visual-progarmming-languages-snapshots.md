@@ -64,7 +64,7 @@ First "iconic" programing ~ 1968
 ### ADL
 [Direct Link](#adl), [Image Source](http://tradetalk.tradingtechnologies.com/2013/05/university-program-university-of-virginia.html) and [Web Site](https://www.tradingtechnologies.com/products/trading-analytics/xtrader/adl/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_adl.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_adl.jpg"><img></p>
 
 {#agentSheets}
 ### AgentSheets and AgentCubes
@@ -81,7 +81,7 @@ First "iconic" programing ~ 1968
 ### Agilent VEE
 [Direct Link](#agilent-vee), [Image Source](http://cp.home.agilent.com/upload/cmc_upload/ENA_BW_Search_with_Upper_Lower_Stimulus_IMAGE1.png) and [Web Site](http://www.home.agilent.com/agilent/editorial.jspx?cc=SG&lc=eng&ckey=2258391&nid=-11143.0.00&id=2258391)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_agilent-vee.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_agilent-vee.jpg"><img></p>
 
 {#alice}
 ### Alice
@@ -93,7 +93,7 @@ First "iconic" programing ~ 1968
 ### Amici
 [Direct Link](#amici), [Image Source](http://dimeb.informatik.uni-bremen.de/eduwear/about/) and [Web Site](http://dimeb.informatik.uni-bremen.de/eduwear/about/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Amici.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Amici.png"><img></p>
 
 {#appacitive}
 ### Appacitive
@@ -105,7 +105,7 @@ First "iconic" programing ~ 1968
 ### Apple Shake
 [Direct Link](#apple-shake), [Image Source](http://i1.ytimg.com/vi/RlC9PclVd7Q/maxresdefault.jpg) and [Web Site](http://www.apple.com/support/shake/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_AppleShake.jpg "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_AppleShake.jpg "><img></p>
 
 <p class="pagination-centered">
 <iframe width="746" height="420" src="//www.youtube.com/embed/RlC9PclVd7Q" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
@@ -115,7 +115,7 @@ First "iconic" programing ~ 1968
 ### AppWare
 [Direct Link](#appware), [Image Source](http://www.prichystal.cz/Archiv_c/Computer/Appware/appware.htm), [Wikipedia](http://en.wikipedia.org/wiki/AppWare) and [Web Site](http://appacitive.com/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_appware_01.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_appware_01.png"><img></p>
 
 {#app-inventor-for-android}
 ### App Inventor For Android
@@ -127,7 +127,7 @@ First "iconic" programing ~ 1968
 ### Analog Box
 [Direct Link](#analog-box), [Image Source](https://code.google.com/p/analog-box/) and [Web Site](https://code.google.com/p/analog-box/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_analogbox.jpg "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_analogbox.jpg "><img></p>
 
 {#andescotia}
 [Commercial Use](#andescotia) via [Andescotia](http://www.andescotia.com/)
@@ -163,12 +163,12 @@ First "iconic" programing ~ 1968
 ### Blender: Sverchok add on 
 [Direct Link](#blender-sverchok-add-on), [Image Source](http://1.bp.blogspot.com/-WIIMCG1aCZo/UtW_-LCF4TI/AAAAAAABF7Y/Dq87oQqYPu0/s1600/Blender+%5BCBLENDER_SVERCHOKtween_005.blend%5D.png) and [Web Site](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Sverchok-add-on-Blender.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Sverchok-add-on-Blender.png"><img></p>
 
 {#blender-textures-nodes}
 ### Blender: Textures Nodes
 [Direct Link](#blender-textures-nodes), [Image Source](http://www.blenderguru.com/wp-content/uploads/2009/05/11-full-nodes-540x617.jpg) and [Web Site](http://wiki.blender.org/index.php/Doc:2.4/Manual/Textures/Types/Nodes)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_BlenderNodeTexture.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_BlenderNodeTexture.png"><img></p>
 
 {#blockly}
 ### Blockly
@@ -224,7 +224,7 @@ First "iconic" programing ~ 1968
 ### Designscript
 [Direct Link](#designscript), [Image Source](http://forums.autodesk.com/t5/image/serverpage/image-id/61329iD69DA33B7DA9B96B/image-size/original?v=mpbl-1&px=-1) and [Web Site](https://beta.autodesk.com/callout/?callid=E32D5D18F0C545469AF146D49BE0B31C)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_autodesk-designscript.png "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_autodesk-designscript.png "><img></p>
 
 {#drakon}
 ### DRAKON
@@ -244,7 +244,7 @@ First "iconic" programing ~ 1968
 ### Dream Maker
 [Direct Link](#dream-maker), [Image Source](http://www.byond.com/forum/?post=120715) and [Web Site](http://www.byond.com/docs/guide/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_dreammaker.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_dreammaker.jpg"><img></p>
 
 {#drupal}
 ### Drupal
@@ -254,7 +254,7 @@ First "iconic" programing ~ 1968
 {#dynamo}
 ### Dynamo
 [Direct Link](#dynamo), [Image Source](http://dynamobim.org/dynamo-0-6-3-release-and-0-7-0-alpha/) and [Web Site](http://autodeskvasari.com/dynamo)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_dynamo.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_dynamo.png"><img></p>
 
 {#engijs}
 ### Engi JS
@@ -274,7 +274,7 @@ First "iconic" programing ~ 1968
 ### Eyeon Fusion
 [Direct Link](#eyeon-fusion), [Image Source](https://www.fxguide.com/wp-content/uploads/2010/10/09Jun/fusion6/carpaint_shader_comp.jpg) and [Web Site](http://www.eyeonline.com/Fusion.html)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_EyeonFusion.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_EyeonFusion.jpg"><img></p>
 
 {#eyesweb}
 ### EyesWeb
@@ -308,7 +308,7 @@ First "iconic" programing ~ 1968
 ### Foundry Modo
 [Direct Link](#foundry-modo), [Image Source](http://www.fxguide.com/featured/katana-in-production-changing-the-structure-of-the-workflow/) and [Web Site](http://www.thefoundry.co.uk/products/modo/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_FoundryModo.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_FoundryModo.jpg"><img></p>
 
 {#flexmonkey}
 ### ReDiLab:Node
@@ -340,7 +340,7 @@ First "iconic" programing ~ 1968
 ### GenerativeComponents
 [Direct Link](#generativecomponents), [Image Source]( http://communities.bentley.com/cfs-file.ashx/__key/telligent-evolution-components-attachments/13-6774-00-00-00-26-95-51/2014_2D00_03_2D00_05_5F00_ScreenCaptureGraph.png) and [Web Site](http://www.bentley.com/en-US/Promo/Generative+Components/default.htm)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_generativecomponents.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_generativecomponents.png"><img></p>
 
 {#godot-engine}
 ### GoDot Engine
@@ -414,7 +414,7 @@ Note: see also [LiveCode](#livecode)
 ### InfoSphere Streams
 [Direct Link](#infosphere-streams), [Image Source]( http://biblogg.no/wp-content/uploads/2011/10/IBM-Big-data-2.png) and [Web Site]( http://www-03.ibm.com/software/products/en/infosphere-streams/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_InfoSphereStreams.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_InfoSphereStreams.jpg"><img></p>
 
 {#intentional-technology}
 ### Intentional Technology
@@ -470,7 +470,7 @@ Note: see also [LiveCode](#livecode)
 {#kyma}
 ### Kyma
 [Direct Link](#kyma), [Image Source](http://www.symbolicsound.com/UpgradeCommon/Kyma%20XScreenshot%20Large.jpg) and [Web Site](http://www.symbolicsound.com/cgi-bin/bin/view/Products/WebHome)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Kyma.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Kyma.jpg"><img></p>
 
 {#labview}
 ### LabView
@@ -539,7 +539,7 @@ Looking for an image.
 ### Mamba FX
 [Direct Link](#mamba-fx), [Image Source](http://postperspective.com/wp-content/uploads/2013/10/MAMBA-FX-Screengrab1.png) and [Web Site](http://www.mambatutorials.com/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_MambaFX.png "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_MambaFX.png "><img></p>
 
 {#max-msp-jitter}
 ### MAX/MSP Jitter
@@ -560,7 +560,7 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 {#metaedit-modeler}
 ### MetaEdit+ Modeler
 [Direct Link](#metaedit-modeler), [Image Source](http://www.metacase.com/images/diagrameditor2.png) and [Web Site](http://www.metacase.com/mep/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_MetaEditModeler.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_MetaEditModeler.png"><img></p>
 
 {#mindplus}
 ### Mind+
@@ -572,7 +572,7 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 ### Microsoft Visual Programming Language MVPL
 [Direct Link](#mvpl), [Image Source](http://msdn.microsoft.com/en-us/library/bb483088.aspx) and [Web Site]( http://msdn.microsoft.com/en-us/library/bb483088.aspx)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Microsoft-Visual-Programming-Language.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Microsoft-Visual-Programming-Language.png"><img></p>
 
 {#mindspider}
 ### MindSpider
@@ -610,7 +610,7 @@ This has a really cool looking interface.
 {#modkit-arduino-visual-programming}
 ### Modkit Arduino Visual Programming
 [Direct Link](#modkit-arduino-visual-programming), [Image Source](http://dangerousprototypes.com/forum/viewtopic.php?f=34&t=1072&sid=3da3289fbd14b423672fafc56c8f8c86) and [Web Site](http://www.modkit.com/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_modkit.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_modkit.png"><img></p>
 
 {#morphic}
 ### Morphic
@@ -683,7 +683,7 @@ Legos!!!
 ### OpenAlea Visualea
 [Direct Link](#openalea-visualea), [Image Source](http://openalea.gforge.inria.fr/doc/openalea/visualea/doc/_build/html/contents.html) and [Web Site](http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/index.html)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_OpenAleaVisualea.png"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_OpenAleaVisualea.png"><img></p>
 
 {#opendx}
 ### OpenDX
@@ -753,7 +753,7 @@ Legos!!!
 ### Praxis LIVE
 [Direct Link](#praxis-live), [Image Source](http://www.praxislive.org/features) and [Web Site](http://www.praxislive.org/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_praxislive.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_praxislive.jpg"><img></p>
 
 {#programming-without-coding-technology}
 ### Programming Without Coding Technology
@@ -869,13 +869,13 @@ Legos!!!
 ### Substance Designer
 [Direct Link](#substance-designer), [Image Source](http://www.psoih.com/wp-content/uploads/2013/11/20131110_EasyUV_Substance_SVG_Graph2.jpg) and [Web Site]( http://store.steampowered.com/video/238710)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_SubstanceDesigner.jpg "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_SubstanceDesigner.jpg "><img></p>
 
 
 {#synopsis}
 ### Synopsis
 [Direct Link](#synopsis), [Image Source](http://www.codemorphis.com/) and [Web Site](http://www.codemorphis.com/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Synopsis.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Synopsis.jpg"><img></p>
 
 {#synthedit}
 ### SynthEdit
@@ -907,7 +907,7 @@ Legos!!!
 {#stylus-studio}
 ### Stylus Studio
 [Direct Link](#stylus-studio), [Image Source](http://www.stylusstudio.com/xml_brochure.html) and [Web Site](http://www.stylusstudio.com/xml_brochure.html)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_StylusStudio.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_StylusStudio.jpg"><img></p>
 
 {#tersus}
 ### Tersus
@@ -992,7 +992,7 @@ From Microsoft research.
 {#vplus}
 ### V+
 [Direct Link](#vplus), [Image Source](http://southwestjones.com/wp-content/uploads/2013/05/visualLangSamp.jpg) and [Web Site](http://www.simphonics.com/products/software/vplus/)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_Vplus.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_Vplus.jpg"><img></p>
 
 {#videolangpi}
 ### Video Processing Language for the Raspberry Pi
@@ -1003,7 +1003,7 @@ From Microsoft research.
 {#vistrails}
 ### VisTrails
 [Direct Link](#vistrails), [Image Source](http://twiki.ipaw.info/bin/view/Challenge/VisTrails) and [Web Site](http://twiki.ipaw.info/bin/view/Challenge/VisTrails)
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_VisTrails.png "><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_VisTrails.png "><img></p>
 
 {#visual-jforex}
 ### Visual JForex
@@ -1050,13 +1050,13 @@ From Microsoft research.
 ### World machine
 [Direct Link](#world-machine), [Image Source](http://mygaragegame.blogspot.in/2012/08/terrain-tiles.html) and [Web Site](http://www.world-machine.com/)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_worldmachine.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_worldmachine.jpg"><img></p>
 
 {#xpresso}
 ### Xpresso
 [Direct Link](#xpresso), [Image Source](http://www.maxon.net/products/cinema-4d-prime/customizing.html) and [Web Site](http://www.maxon.net/products/cinema-4d-prime/customizing.html)
 
-<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/example_visual_language_xpresso.jpg"><img></p>
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_xpresso.jpg"><img></p>
 
 {#zaluum}
 ### Zaluum

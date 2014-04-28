@@ -159,6 +159,11 @@ First "iconic" programing ~ 1968
 
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_automator_01.jpg"><img></p>
 
+{#babuino}
+### Babuino
+[Direct Link](#babuino), [Image Source](http://2.bp.blogspot.com/-z0A3QaeBNq0/UUwdPcNWd6I/AAAAAAAAA90/FvID20svfus/s1600/Blocos-Switches-e1291278725603.jpg) and [Web Site](http://home.teleport.com/~brettn/babuinobot_about/index.html)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_babuino.jpg"><img></p>
+
 {#blender-sverchok-add-on}
 ### Blender: Sverchok add on 
 [Direct Link](#blender-sverchok-add-on), [Image Source](http://1.bp.blogspot.com/-WIIMCG1aCZo/UtW_-LCF4TI/AAAAAAABF7Y/Dq87oQqYPu0/s1600/Blender+%5BCBLENDER_SVERCHOKtween_005.blend%5D.png) and [Web Site](http://www.blendernation.com/2013/11/01/sverchok-add-on-new-version-and-hangout-today/)
@@ -561,6 +566,11 @@ Marten is an implementation of the [Prograph](http://en.wikipedia.org/wiki/Progr
 ### MetaEdit+ Modeler
 [Direct Link](#metaedit-modeler), [Image Source](http://www.metacase.com/images/diagrameditor2.png) and [Web Site](http://www.metacase.com/mep/)
 <p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_MetaEditModeler.png"><img></p>
+
+{#miceonabeam}
+### MiceOnABeam
+[Direct Link](#miceonabeam), [Image Source](http://www.miceonabeam.com/) and [Web Site](http://www.miceonabeam.com/)
+<p class="pagination-centered"><img class="img-polaroid" src="/assets/img/posts/example_visual_language_miceonabeam.png"><img></p>
 
 {#mindplus}
 ### Mind+

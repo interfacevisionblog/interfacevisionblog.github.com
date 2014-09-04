@@ -14,7 +14,7 @@ We are going to talk about Javascript and message-oriented programming (MOP). Ja
 
 ## Why Message-Oriented Programming
 
-The purpose of message-oriented programming is to standardize the behavioral interface of objects. This means, invoking the behavior of any object is the exact same: ill-relevant of the behavior we are trying to invoke.
+The purpose of message-oriented programming is to standardize the behavioral interface of objects. This means, invoking the behavior of any object is the exact same: irrelevant of the behavior we are trying to invoke.
 
 Invoking the addition of two numbers is the same as invoking the behavior to push data through a socket. As we will see below, this also means programming becomes the composition of data structures.
 

@@ -75,16 +75,16 @@ Write out the first name of users Jane, Smith and Joe: each on a new line.
       do ForEach {
         item List [
           Hash [
-            KeyPair { name "firstName" value "Jane"}
-            KeyPair { name "lastName" value "First"}
+            KeyPair { key "firstName" value "Jane"}
+            KeyPair { key "lastName" value "First"}
           ]
           Hash [
-            KeyPair { name "firstName" value "Smith"}
-            KeyPair { name "lastName" value "Between"}
+            KeyPair { key "firstName" value "Smith"}
+            KeyPair { key "lastName" value "Between"}
           ]
           Hash [
-            KeyPair { name "firstName" value "Joe"}
-            KeyPair { name "lastName" value "Last"}
+            KeyPair { key "firstName" value "Joe"}
+            KeyPair { key "lastName" value "Last"}
           ]
         ]
         do WriteLine {
@@ -146,9 +146,9 @@ A pseudo parsing expression grammar is as follows:
   
 <div id='id-g1-1-top'>&nbsp;</div>
     a} PROPERTY <- property primitive+
-    b} PROPERTY <- property PART+
-    c} PART <- Part { PROPERTY* } // Could also be () if people prefered that.
-    d} PART <- Part [ PART ]
+    b} PROPERTY <- property MESSAGE+
+    c} MESSAGE <- Part { PROPERTY* } // Could also be () if people prefered that.
+    d} MESSAGE <- Part [ MESSAGE ]
 
 ###### Grammar-1.1: Parsing expression grammar for SipCoffee. {#id-g1-1}
 

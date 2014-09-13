@@ -93,7 +93,7 @@ Write out the first name of users Jane, Smith and Joe: each on a new line.
       }
     }
 
-###### Source-1.4: A for each in SipCoffee against Parts. {#id-s1-4}
+###### Source-1.4: A for each in SipCoffee. {#id-s1-4}
 
 ### ForEach Using Sql
 
@@ -114,7 +114,7 @@ Write out the first name of users with data coming from a database: each on a ne
       }
     }
 
-###### Source-1.4: A for each in SipCoffee against Parts. {#id-s1-4}
+###### Source-1.4: A for each in SipCoffee. {#id-s1-4}
 
 ### ForEach Using Sql Explained
 
@@ -147,8 +147,8 @@ A pseudo parsing expression grammar is as follows:
 <div id='id-g1-1-top'>&nbsp;</div>
     a} PROPERTY <- property primitive+
     b} PROPERTY <- property MESSAGE+
-    c} MESSAGE <- Part { PROPERTY* } // Could also be () if people prefered that.
-    d} MESSAGE <- Part [ MESSAGE ]
+    c} MESSAGE <- Message { PROPERTY* } // Could also be () if people prefered that.
+    d} MESSAGE <- Message [ MESSAGE ]
 
 ###### Grammar-1.1: Parsing expression grammar for SipCoffee. {#id-g1-1}
 
@@ -172,7 +172,7 @@ A collection is defined by simply listing the item in the array separated by whi
 * array of strings - [ "Hello" "And" "GoodBye" ]
 * array of integers - [ 1 2 5 6 12 656 ]
 * array of floats - [ 23.0f 345.4f 63.346f ]
-* array of Parts - [ User { name "Jane" } User { name "Toan" } User { name "Frank" } ]
+* array of Messages - [ User { name "Jane" } User { name "Toan" } User { name "Frank" } ]
 
 ## Availability
 

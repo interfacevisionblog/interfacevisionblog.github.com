@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Programming Language Based on Composition"
-description: "A very simple programming language which uses composition exclusively."
+title: "A Programming Language Based on Composition of Messages"
+description: "A very simple message-oriented programming language which uses composition of messages exclusively."
 category: Design
 tags: [Language, Persistence, Scripting, Composition]
 author: Eric Hosick

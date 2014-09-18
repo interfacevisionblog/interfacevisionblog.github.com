@@ -185,4 +185,5 @@ Our programs are indeed data-structures both in code and when instantiated on th
 
 Our code being a data-structure gives us the ability to manipulate code just like any data-structure. This means we can join, cut, copy, merge, delete, search, sort, load and save code: even during runtime!
 
+If you find our work on Homoiconicity interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).
 

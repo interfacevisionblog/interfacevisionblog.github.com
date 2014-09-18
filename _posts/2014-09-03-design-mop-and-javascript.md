@@ -269,3 +269,5 @@ Javascript is a very versatile, and awesome, language that supports message-orie
 
 There is a lot more we can do with this to clean things up. For example, our msg() function could do boxing of primitive data types for us making our message configurations easier to read. We would place this in a library.
 
+If you find our work on message-oriented programming interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).
+

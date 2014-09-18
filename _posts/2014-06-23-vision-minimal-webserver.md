@@ -339,3 +339,4 @@ Message-oriented programming kicks ass. In 50 lines of code, we are able to crea
 
 We have a data-structure of messages that is also the behavior of the program. That makes the message-configuration very easily re-used in a multi-threaded environment. We aren't allocating memory all the time and we are able to activate message-configurations without the overhead of locking and worrying about re-entrance. We get the speed of "single threaded" programming in a multi-threaded environment. Woo hoo!
 
+If you find our work on message-oriented programming interesting, please follow us [@interfaceVision](http://www.twitter.com/interfaceVision) and/or [@erichosick](http://www.twitter.com/erichosick).

@@ -69,7 +69,7 @@ I think I know why it is hard to find languages that are really Homoiconic. Howe
 
 If you are creating a language, and remove parameterized sub-routines as the core abstraction for communication of data between sub-routines, you end up with a Homoiconic language.
 
-The fundamental datatypes (messages) take the place of parameterized sub-routines and passing of information between sub-routines becomes an inherent part of the data-structure you create when programming.
+The fundamental datatypes (messages) take the place of parameterized sub-routines and passing of information between messages becomes an inherent part of the data-structure you create when programming.
 
 ## Javascript and Homoiconicity
 

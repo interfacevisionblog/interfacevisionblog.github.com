@@ -57,8 +57,6 @@ And this:
 
 Just like you can display and edit trees in many [different visual formats](https://www.google.com/search?q=tree+structure&tbm=isch), you can display and edit source code visually. You can have multiple visual representations of the same program: each one tailored towards the reader of your program!
 
-And all of this is possible without writing custom code (emergent behavior) because there is no need to convert your program from source-code to a data-structure.
-
 It really surprises me that we have gone this far without Homoiconicity going main stream.
 
 ## Why is Homoiconicity Hard To Do in Languages?

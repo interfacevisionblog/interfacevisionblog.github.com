@@ -114,7 +114,7 @@ How about we persist it using a file name and file type entered by a user on a f
 
     persistIt2.go; // invoke the program
 
-How a bout we inject behavior to write a message to the console when the file_type form field is accessed:
+How about we inject behavior to write a message to the console when the file_type form field is accessed:
 
     var persistIt3 = persist ({
       fileName: formFieldGet ({
